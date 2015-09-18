@@ -1,5 +1,5 @@
 {
-    "name": "dl/eval",
+    "name": "lthrt/eval",
     "license": "proprietary",
     "type": "project",
     "autoload": {
@@ -8,6 +8,20 @@
             "SymfonyStandard\\": "app/SymfonyStandard/"
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/lthrt/ContactBundle.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "https://github.com/lthrt/EntityLoggerBundle.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "https://github.com/lthrt/GeneratorBundle.git"
+        }
+    ],
     "require": {
         "php": ">=5.3.9",
         "symfony/symfony": "2.7.*",
@@ -18,7 +32,11 @@
         "symfony/monolog-bundle": "~2.4",
         "sensio/distribution-bundle": "~4.0",
         "sensio/framework-extra-bundle": "^3.0.2",
-        "incenteev/composer-parameter-handler": "~2.0"
+        "incenteev/composer-parameter-handler": "~2.0",
+        "lthrt/contact-bundle": "dev-master",
+        "lthrt/entity-logger-bundle": "dev-master",
+        "lthrt/generator-bundle": "dev-master"
+
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3"
