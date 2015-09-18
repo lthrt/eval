@@ -17,6 +17,7 @@ class AppKernel extends Kernel
             new Doctrine\Bundle\DoctrineBundle\DoctrineBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new Lthrt\ContactBundle\LthrtContactBundle(),
+            new Lthrt\EntityLoggerBundle\LthrtEntityLoggerBundle(),
             // new JMS\SerializerBundle\JMSSerializerBundle(),
         ];
 

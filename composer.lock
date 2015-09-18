@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "bc1c7b0214f345530da2472bea394f7b",
-    "content-hash": "1003232b2bd59e60e9351bfa6cfc3acd",
+    "hash": "b69921d28e3cad4c20755f2b5298b0a9",
+    "content-hash": "5dcda574cf37edcdad15a5c67c23d9bb",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1060,12 +1060,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/ContactBundle.git",
-                "reference": "a28812a5e59fbf56cdaf85b4ba0399db6d0b0975"
+                "reference": "a81a92dc7cd52665942845dcc5aefec78547eeba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/a28812a5e59fbf56cdaf85b4ba0399db6d0b0975",
-                "reference": "a28812a5e59fbf56cdaf85b4ba0399db6d0b0975",
+                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/a81a92dc7cd52665942845dcc5aefec78547eeba",
+                "reference": "a81a92dc7cd52665942845dcc5aefec78547eeba",
                 "shasum": ""
             },
             "require": {
@@ -1102,7 +1102,57 @@
                 "source": "https://github.com/lthrt/ContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/ContactBundle/issues"
             },
-            "time": "2015-09-18 20:37:18"
+            "time": "2015-09-18 23:38:02"
+        },
+        {
+            "name": "lthrt/entity-logger-bundle",
+            "version": "dev-master",
+            "target-dir": "Lthrt/EntityLoggerBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lthrt/EntityLoggerBundle.git",
+                "reference": "bb355309fa5e3d608848b11e2bbadca59b812722"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lthrt/EntityLoggerBundle/zipball/bb355309fa5e3d608848b11e2bbadca59b812722",
+                "reference": "bb355309fa5e3d608848b11e2bbadca59b812722",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.2"
+            },
+            "require-dev": {
+                "symfony/framework-bundle": "~2.7"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-0": {
+                    "Lthrt\\EntityLoggerBundle": ""
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "lthrt",
+                    "email": "lighthart.coder@gmail.com"
+                }
+            ],
+            "description": "lthrt Entity Logger Bundle for Symfony2",
+            "homepage": "https://github.com/lthrt/EntityLoggerBundle",
+            "keywords": [
+                "bundle",
+                "entity",
+                "generator",
+                "lthrt"
+            ],
+            "support": {
+                "source": "https://github.com/lthrt/EntityLoggerBundle/tree/master",
+                "issues": "https://github.com/lthrt/EntityLoggerBundle/issues"
+            },
+            "time": "2015-09-18 23:39:59"
         },
         {
             "name": "lthrt/generator-bundle",
@@ -1111,12 +1161,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/GeneratorBundle.git",
-                "reference": "f4d32c8faaa038809e3d6550ca7267f57ef491be"
+                "reference": "cc643a820de4c722d0b8eb6ad5abc399490cbd52"
             },
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/lthrt/GeneratorBundle/zipball/cc643a820de4c722d0b8eb6ad5abc399490cbd52",
-                "reference": "f4d32c8faaa038809e3d6550ca7267f57ef491be",
+                "reference": "cc643a820de4c722d0b8eb6ad5abc399490cbd52",
                 "shasum": ""
             },
             "require": {
@@ -1152,7 +1202,7 @@
                 "source": "https://github.com/lthrt/GeneratorBundle/tree/master",
                 "issues": "https://github.com/lthrt/GeneratorBundle/issues"
             },
-            "time": "2015-09-18 19:21:30"
+            "time": "2015-09-18 20:11:30"
         },
         {
             "name": "monolog/monolog",
@@ -1904,6 +1954,7 @@
     "minimum-stability": "stable",
     "stability-flags": {
         "lthrt/contact-bundle": 20,
+        "lthrt/entity-logger-bundle": 20,
         "lthrt/generator-bundle": 20
     },
     "prefer-stable": false,
