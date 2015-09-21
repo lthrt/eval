@@ -1111,24 +1111,26 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/EntityLoggerBundle.git",
-                "reference": "bb355309fa5e3d608848b11e2bbadca59b812722"
+                "reference": "099219a9f33eab4ea8e853c438a9b7fc434aa714"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/EntityLoggerBundle/zipball/bb355309fa5e3d608848b11e2bbadca59b812722",
-                "reference": "bb355309fa5e3d608848b11e2bbadca59b812722",
+                "url": "https://api.github.com/repos/lthrt/EntityLoggerBundle/zipball/099219a9f33eab4ea8e853c438a9b7fc434aa714",
+                "reference": "099219a9f33eab4ea8e853c438a9b7fc434aa714",
                 "shasum": ""
             },
             "require": {
+                "jms/serializer-bundle": "0.9",
                 "php": ">=5.3.2"
             },
             "require-dev": {
+                "jms/serializer-bundle": "0.9",
                 "symfony/framework-bundle": "~2.7"
             },
             "type": "symfony-bundle",
             "autoload": {
                 "psr-0": {
-                    "Lthrt\\EntityLoggerBundle": ""
+                    "Lthrt\\ContactBundle": ""
                 }
             },
             "license": [
@@ -1140,19 +1142,18 @@
                     "email": "lighthart.coder@gmail.com"
                 }
             ],
-            "description": "lthrt Entity Logger Bundle for Symfony2",
+            "description": "lthrt Contact Management Bundle for Symfony2",
             "homepage": "https://github.com/lthrt/EntityLoggerBundle",
             "keywords": [
                 "bundle",
-                "entity",
-                "generator",
+                "contact",
                 "lthrt"
             ],
             "support": {
                 "source": "https://github.com/lthrt/EntityLoggerBundle/tree/master",
                 "issues": "https://github.com/lthrt/EntityLoggerBundle/issues"
             },
-            "time": "2015-09-18 23:39:59"
+            "time": "2015-09-21 21:06:47"
         },
         {
             "name": "lthrt/generator-bundle",
