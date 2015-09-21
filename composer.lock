@@ -1060,12 +1060,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/ContactBundle.git",
-                "reference": "a81a92dc7cd52665942845dcc5aefec78547eeba"
+                "reference": "dd0638a02869db6c3db0cce355bc162158ae370d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/a81a92dc7cd52665942845dcc5aefec78547eeba",
-                "reference": "a81a92dc7cd52665942845dcc5aefec78547eeba",
+                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/dd0638a02869db6c3db0cce355bc162158ae370d",
+                "reference": "dd0638a02869db6c3db0cce355bc162158ae370d",
                 "shasum": ""
             },
             "require": {
@@ -1102,7 +1102,7 @@
                 "source": "https://github.com/lthrt/ContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/ContactBundle/issues"
             },
-            "time": "2015-09-18 23:38:02"
+            "time": "2015-09-18 23:57:35"
         },
         {
             "name": "lthrt/entity-logger-bundle",
