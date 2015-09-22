@@ -1111,12 +1111,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/EntityLoggerBundle.git",
-                "reference": "099219a9f33eab4ea8e853c438a9b7fc434aa714"
+                "reference": "d03c9cd4943354d0e3175c6cf3283814384c7b57"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/EntityLoggerBundle/zipball/099219a9f33eab4ea8e853c438a9b7fc434aa714",
-                "reference": "099219a9f33eab4ea8e853c438a9b7fc434aa714",
+                "url": "https://api.github.com/repos/lthrt/EntityLoggerBundle/zipball/d03c9cd4943354d0e3175c6cf3283814384c7b57",
+                "reference": "d03c9cd4943354d0e3175c6cf3283814384c7b57",
                 "shasum": ""
             },
             "require": {
@@ -1130,7 +1130,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-0": {
-                    "Lthrt\\ContactBundle": ""
+                    "Lthrt\\EntityLoggerBundle": ""
                 }
             },
             "license": [
@@ -1142,18 +1142,19 @@
                     "email": "lighthart.coder@gmail.com"
                 }
             ],
-            "description": "lthrt Contact Management Bundle for Symfony2",
+            "description": "Entity Change Logging Bundle for Symfony2",
             "homepage": "https://github.com/lthrt/EntityLoggerBundle",
             "keywords": [
                 "bundle",
-                "contact",
+                "entity",
+                "logging",
                 "lthrt"
             ],
             "support": {
                 "source": "https://github.com/lthrt/EntityLoggerBundle/tree/master",
                 "issues": "https://github.com/lthrt/EntityLoggerBundle/issues"
             },
-            "time": "2015-09-21 21:06:47"
+            "time": "2015-09-22 02:24:36"
         },
         {
             "name": "lthrt/generator-bundle",
