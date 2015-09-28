@@ -1060,12 +1060,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/ContactBundle.git",
-                "reference": "dd0638a02869db6c3db0cce355bc162158ae370d"
+                "reference": "c189e0191c1e1c73d6b65655973f22798164447c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/dd0638a02869db6c3db0cce355bc162158ae370d",
-                "reference": "dd0638a02869db6c3db0cce355bc162158ae370d",
+                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/c189e0191c1e1c73d6b65655973f22798164447c",
+                "reference": "c189e0191c1e1c73d6b65655973f22798164447c",
                 "shasum": ""
             },
             "require": {
@@ -1102,7 +1102,7 @@
                 "source": "https://github.com/lthrt/ContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/ContactBundle/issues"
             },
-            "time": "2015-09-18 23:57:35"
+            "time": "2015-09-28 22:54:13"
         },
         {
             "name": "lthrt/entity-logger-bundle",
@@ -1111,12 +1111,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/EntityLoggerBundle.git",
-                "reference": "dcd1089d48feb79682fe7ea7fe1216ee32734fa1"
+                "reference": "77fc509662ed591a05d6675df1190c54def75b19"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/EntityLoggerBundle/zipball/dcd1089d48feb79682fe7ea7fe1216ee32734fa1",
-                "reference": "dcd1089d48feb79682fe7ea7fe1216ee32734fa1",
+                "url": "https://api.github.com/repos/lthrt/EntityLoggerBundle/zipball/77fc509662ed591a05d6675df1190c54def75b19",
+                "reference": "77fc509662ed591a05d6675df1190c54def75b19",
                 "shasum": ""
             },
             "require": {
@@ -1154,7 +1154,7 @@
                 "source": "https://github.com/lthrt/EntityLoggerBundle/tree/master",
                 "issues": "https://github.com/lthrt/EntityLoggerBundle/issues"
             },
-            "time": "2015-09-22 17:27:51"
+            "time": "2015-09-28 22:55:05"
         },
         {
             "name": "lthrt/generator-bundle",
@@ -1163,12 +1163,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/GeneratorBundle.git",
-                "reference": "06a8e06df728388ca56e7d38acdf085a3094e447"
+                "reference": "5069e6badc0c710f795ac6b58f95a9954550fb35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/GeneratorBundle/zipball/06a8e06df728388ca56e7d38acdf085a3094e447",
-                "reference": "06a8e06df728388ca56e7d38acdf085a3094e447",
+                "url": "https://api.github.com/repos/lthrt/GeneratorBundle/zipball/5069e6badc0c710f795ac6b58f95a9954550fb35",
+                "reference": "5069e6badc0c710f795ac6b58f95a9954550fb35",
                 "shasum": ""
             },
             "require": {
@@ -1204,7 +1204,7 @@
                 "source": "https://github.com/lthrt/GeneratorBundle/tree/master",
                 "issues": "https://github.com/lthrt/GeneratorBundle/issues"
             },
-            "time": "2015-09-22 17:11:33"
+            "time": "2015-09-28 22:07:56"
         },
         {
             "name": "monolog/monolog",
@@ -1537,12 +1537,12 @@
             "version": "v2.7.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/symfony/AsseticBundle.git",
+                "url": "https://github.com/symfony/assetic-bundle.git",
                 "reference": "3ae5c8ca3079b6e0033cc9fbfb6500e2bc964da5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/AsseticBundle/zipball/3ae5c8ca3079b6e0033cc9fbfb6500e2bc964da5",
+                "url": "https://api.github.com/repos/symfony/assetic-bundle/zipball/3ae5c8ca3079b6e0033cc9fbfb6500e2bc964da5",
                 "reference": "3ae5c8ca3079b6e0033cc9fbfb6500e2bc964da5",
                 "shasum": ""
             },
@@ -1607,12 +1607,12 @@
             "version": "v2.7.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/symfony/MonologBundle.git",
+                "url": "https://github.com/symfony/monolog-bundle.git",
                 "reference": "9320b6863404c70ebe111e9040dab96f251de7ac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/MonologBundle/zipball/9320b6863404c70ebe111e9040dab96f251de7ac",
+                "url": "https://api.github.com/repos/symfony/monolog-bundle/zipball/9320b6863404c70ebe111e9040dab96f251de7ac",
                 "reference": "9320b6863404c70ebe111e9040dab96f251de7ac",
                 "shasum": ""
             },
@@ -1666,12 +1666,12 @@
             "version": "v2.3.8",
             "source": {
                 "type": "git",
-                "url": "https://github.com/symfony/SwiftmailerBundle.git",
+                "url": "https://github.com/symfony/swiftmailer-bundle.git",
                 "reference": "970b13d01871207e81d17b17ddda025e7e21e797"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/SwiftmailerBundle/zipball/970b13d01871207e81d17b17ddda025e7e21e797",
+                "url": "https://api.github.com/repos/symfony/swiftmailer-bundle/zipball/970b13d01871207e81d17b17ddda025e7e21e797",
                 "reference": "970b13d01871207e81d17b17ddda025e7e21e797",
                 "shasum": ""
             },
@@ -1720,20 +1720,20 @@
         },
         {
             "name": "symfony/symfony",
-            "version": "v2.7.4",
+            "version": "v2.7.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "1fdf23fe28876844b887b0e1935c9adda43ee645"
+                "reference": "619528a274647cffc1792063c3ea04c4fa8266a0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/1fdf23fe28876844b887b0e1935c9adda43ee645",
-                "reference": "1fdf23fe28876844b887b0e1935c9adda43ee645",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/619528a274647cffc1792063c3ea04c4fa8266a0",
+                "reference": "619528a274647cffc1792063c3ea04c4fa8266a0",
                 "shasum": ""
             },
             "require": {
-                "doctrine/common": "~2.3",
+                "doctrine/common": "~2.4",
                 "php": ">=5.3.9",
                 "psr/log": "~1.0",
                 "twig/twig": "~1.20|~2.0"
@@ -1786,9 +1786,9 @@
             },
             "require-dev": {
                 "doctrine/data-fixtures": "1.0.*",
-                "doctrine/dbal": "~2.2",
+                "doctrine/dbal": "~2.4",
                 "doctrine/doctrine-bundle": "~1.2",
-                "doctrine/orm": "~2.2,>=2.2.3",
+                "doctrine/orm": "~2.4,>=2.4.5",
                 "egulias/email-validator": "~1.2",
                 "ircmaxell/password-compat": "~1.0",
                 "monolog/monolog": "~1.11",
@@ -1838,7 +1838,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2015-09-08 14:26:39"
+            "time": "2015-09-25 11:16:52"
         },
         {
             "name": "twig/twig",
