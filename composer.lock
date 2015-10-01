@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b69921d28e3cad4c20755f2b5298b0a9",
-    "content-hash": "5dcda574cf37edcdad15a5c67c23d9bb",
+    "hash": "5fc1dee874e97aa9ff8b5a2d88f04e0d",
+    "content-hash": "6f56d1cd3d619addf8eff4447ee6445a",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1111,20 +1111,22 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/EntityLoggerBundle.git",
-                "reference": "031436485436ef82d6f16f6acd3da70e44e691b9"
+                "reference": "75801dd5e19d8e44f3998e02fca19f1b6652a4f2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/EntityLoggerBundle/zipball/031436485436ef82d6f16f6acd3da70e44e691b9",
-                "reference": "031436485436ef82d6f16f6acd3da70e44e691b9",
+                "url": "https://api.github.com/repos/lthrt/EntityLoggerBundle/zipball/75801dd5e19d8e44f3998e02fca19f1b6652a4f2",
+                "reference": "75801dd5e19d8e44f3998e02fca19f1b6652a4f2",
                 "shasum": ""
             },
             "require": {
                 "jms/serializer-bundle": "0.9",
+                "lthrt/json-view-bundle": "dev-master",
                 "php": ">=5.3.2"
             },
             "require-dev": {
                 "jms/serializer-bundle": "0.9",
+                "lthrt/json-view-bundle": "dev-master",
                 "symfony/framework-bundle": "~2.7"
             },
             "type": "symfony-bundle",
@@ -1154,7 +1156,7 @@
                 "source": "https://github.com/lthrt/EntityLoggerBundle/tree/master",
                 "issues": "https://github.com/lthrt/EntityLoggerBundle/issues"
             },
-            "time": "2015-09-29 21:00:22"
+            "time": "2015-09-30 23:50:19"
         },
         {
             "name": "lthrt/generator-bundle",
@@ -1205,6 +1207,112 @@
                 "issues": "https://github.com/lthrt/GeneratorBundle/issues"
             },
             "time": "2015-09-29 21:30:25"
+        },
+        {
+            "name": "lthrt/json-view-bundle",
+            "version": "dev-master",
+            "target-dir": "Lthrt/JSONViewBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lthrt/JSONViewBundle.git",
+                "reference": "d26c6b88d28b8e05c9682724b554d82b27cfce5c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lthrt/JSONViewBundle/zipball/d26c6b88d28b8e05c9682724b554d82b27cfce5c",
+                "reference": "d26c6b88d28b8e05c9682724b554d82b27cfce5c",
+                "shasum": ""
+            },
+            "require": {
+                "jms/serializer-bundle": "0.9",
+                "php": ">=5.3.2"
+            },
+            "require-dev": {
+                "jms/serializer-bundle": "0.9",
+                "symfony/framework-bundle": "~2.7"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-0": {
+                    "Lthrt\\JSONViewBundle": ""
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "lthrt",
+                    "email": "lighthart.coder@gmail.com"
+                }
+            ],
+            "description": "Json Viewing for Twig Bundle for Symfony2",
+            "homepage": "https://github.com/lthrt/JSONViewBundle",
+            "keywords": [
+                "bundle",
+                "json",
+                "lthrt",
+                "view"
+            ],
+            "support": {
+                "source": "https://github.com/lthrt/JSONViewBundle/tree/master",
+                "issues": "https://github.com/lthrt/JSONViewBundle/issues"
+            },
+            "time": "2015-10-01 00:44:33"
+        },
+        {
+            "name": "lthrt/schema-visualizer-bundle",
+            "version": "dev-master",
+            "target-dir": "Lthrt/SchemaVisualizerBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lthrt/SchemaVisualizerBundle.git",
+                "reference": "245f27943f50e07da2a6091dd34e8a352eb437ac"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lthrt/SchemaVisualizerBundle/zipball/245f27943f50e07da2a6091dd34e8a352eb437ac",
+                "reference": "245f27943f50e07da2a6091dd34e8a352eb437ac",
+                "shasum": ""
+            },
+            "require": {
+                "jms/serializer-bundle": "0.9",
+                "lthrt/json-view-bundle": "dev-master",
+                "php": ">=5.3.2"
+            },
+            "require-dev": {
+                "jms/serializer-bundle": "0.9",
+                "lthrt/json-view-bundle": "dev-master",
+                "symfony/framework-bundle": "~2.7"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-0": {
+                    "Lthrt\\SchemaVisualizerBundle": ""
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "lthrt",
+                    "email": "lighthart.coder@gmail.com"
+                }
+            ],
+            "description": "Schema Visualizer Bundle for Symfony2",
+            "homepage": "https://github.com/lthrt/SchemaVisualizerBundle",
+            "keywords": [
+                "bundle",
+                "lthrt",
+                "schema",
+                "visualization"
+            ],
+            "support": {
+                "source": "https://github.com/lthrt/SchemaVisualizerBundle/tree/master",
+                "issues": "https://github.com/lthrt/SchemaVisualizerBundle/issues"
+            },
+            "time": "2015-10-01 00:48:15"
         },
         {
             "name": "monolog/monolog",
@@ -1957,7 +2065,9 @@
     "stability-flags": {
         "lthrt/contact-bundle": 20,
         "lthrt/entity-logger-bundle": 20,
-        "lthrt/generator-bundle": 20
+        "lthrt/generator-bundle": 20,
+        "lthrt/json-view-bundle": 20,
+        "lthrt/schema-visualizer-bundle": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

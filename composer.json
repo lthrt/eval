@@ -20,6 +20,14 @@
         {
             "type": "vcs",
             "url":  "https://github.com/lthrt/GeneratorBundle.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "https://github.com/lthrt/JSONViewBundle.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "https://github.com/lthrt/SchemaVisualizerBundle.git"
         }
     ],
     "require": {
@@ -35,7 +43,9 @@
         "incenteev/composer-parameter-handler": "~2.0",
         "lthrt/contact-bundle": "dev-master",
         "lthrt/entity-logger-bundle": "dev-master",
-        "lthrt/generator-bundle": "dev-master"
+        "lthrt/generator-bundle": "dev-master",
+        "lthrt/json-view-bundle": "dev-master",
+        "lthrt/schema-visualizer-bundle": "dev-master"
 
     },
     "require-dev": {

@@ -18,6 +18,8 @@ class AppKernel extends Kernel
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new Lthrt\ContactBundle\LthrtContactBundle(),
             new Lthrt\EntityLoggerBundle\LthrtEntityLoggerBundle(),
+            new Lthrt\SchemaVisualizerBundle\LthrtSchemaVisualizerBundle(),
+            new Lthrt\JSONViewBundle\LthrtJSONViewBundle(),
         ];
 
         if (in_array($this->getEnvironment(), ['dev', 'test'])) {
