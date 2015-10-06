@@ -1215,20 +1215,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/JSONViewBundle.git",
-                "reference": "d26c6b88d28b8e05c9682724b554d82b27cfce5c"
+                "reference": "0e92feca86c87cc95a93ada979356dfa913e53fc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/JSONViewBundle/zipball/d26c6b88d28b8e05c9682724b554d82b27cfce5c",
-                "reference": "d26c6b88d28b8e05c9682724b554d82b27cfce5c",
+                "url": "https://api.github.com/repos/lthrt/JSONViewBundle/zipball/0e92feca86c87cc95a93ada979356dfa913e53fc",
+                "reference": "0e92feca86c87cc95a93ada979356dfa913e53fc",
                 "shasum": ""
             },
             "require": {
-                "jms/serializer-bundle": "0.9",
                 "php": ">=5.3.2"
             },
             "require-dev": {
-                "jms/serializer-bundle": "0.9",
                 "symfony/framework-bundle": "~2.7"
             },
             "type": "symfony-bundle",
@@ -1258,7 +1256,7 @@
                 "source": "https://github.com/lthrt/JSONViewBundle/tree/master",
                 "issues": "https://github.com/lthrt/JSONViewBundle/issues"
             },
-            "time": "2015-10-01 00:44:33"
+            "time": "2015-10-01 17:34:23"
         },
         {
             "name": "lthrt/schema-visualizer-bundle",
@@ -1267,21 +1265,19 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/SchemaVisualizerBundle.git",
-                "reference": "84489df77d3ec9bffe905a121f1ede7a1fc45541"
+                "reference": "fd6e546d6bbbc793eb443b560febe24dc682a485"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/SchemaVisualizerBundle/zipball/84489df77d3ec9bffe905a121f1ede7a1fc45541",
-                "reference": "84489df77d3ec9bffe905a121f1ede7a1fc45541",
+                "url": "https://api.github.com/repos/lthrt/SchemaVisualizerBundle/zipball/fd6e546d6bbbc793eb443b560febe24dc682a485",
+                "reference": "fd6e546d6bbbc793eb443b560febe24dc682a485",
                 "shasum": ""
             },
             "require": {
-                "jms/serializer-bundle": "0.9",
                 "lthrt/json-view-bundle": "dev-master",
                 "php": ">=5.3.2"
             },
             "require-dev": {
-                "jms/serializer-bundle": "0.9",
                 "lthrt/json-view-bundle": "dev-master",
                 "symfony/framework-bundle": "~2.7"
             },
@@ -1312,7 +1308,7 @@
                 "source": "https://github.com/lthrt/SchemaVisualizerBundle/tree/master",
                 "issues": "https://github.com/lthrt/SchemaVisualizerBundle/issues"
             },
-            "time": "2015-10-01 01:41:05"
+            "time": "2015-10-06 20:30:14"
         },
         {
             "name": "monolog/monolog",
@@ -1712,16 +1708,16 @@
         },
         {
             "name": "symfony/monolog-bundle",
-            "version": "v2.8.0",
+            "version": "2.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/monolog-bundle.git",
-                "reference": "78883d8c1cfa523ac3a28a482b7793036b243f7d"
+                "reference": "7117b9a145722e3c5768db4585f6ad0643ed5c4a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/monolog-bundle/zipball/78883d8c1cfa523ac3a28a482b7793036b243f7d",
-                "reference": "78883d8c1cfa523ac3a28a482b7793036b243f7d",
+                "url": "https://api.github.com/repos/symfony/monolog-bundle/zipball/7117b9a145722e3c5768db4585f6ad0643ed5c4a",
+                "reference": "7117b9a145722e3c5768db4585f6ad0643ed5c4a",
                 "shasum": ""
             },
             "require": {
@@ -1767,7 +1763,7 @@
                 "log",
                 "logging"
             ],
-            "time": "2015-09-29 17:13:11"
+            "time": "2015-10-02 11:51:59"
         },
         {
             "name": "symfony/swiftmailer-bundle",
