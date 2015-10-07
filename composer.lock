@@ -1265,12 +1265,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/SchemaVisualizerBundle.git",
-                "reference": "fd6e546d6bbbc793eb443b560febe24dc682a485"
+                "reference": "394406740b8255c6fb968ab471fa1dd14886f0af"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/SchemaVisualizerBundle/zipball/fd6e546d6bbbc793eb443b560febe24dc682a485",
-                "reference": "fd6e546d6bbbc793eb443b560febe24dc682a485",
+                "url": "https://api.github.com/repos/lthrt/SchemaVisualizerBundle/zipball/394406740b8255c6fb968ab471fa1dd14886f0af",
+                "reference": "394406740b8255c6fb968ab471fa1dd14886f0af",
                 "shasum": ""
             },
             "require": {
@@ -1308,7 +1308,7 @@
                 "source": "https://github.com/lthrt/SchemaVisualizerBundle/tree/master",
                 "issues": "https://github.com/lthrt/SchemaVisualizerBundle/issues"
             },
-            "time": "2015-10-06 20:30:14"
+            "time": "2015-10-07 21:59:21"
         },
         {
             "name": "monolog/monolog",
