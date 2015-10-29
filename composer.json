@@ -27,10 +27,6 @@
         },
         {
             "type": "vcs",
-            "url":  "https://github.com/lthrt/JSONViewBundle.git"
-        },
-        {
-            "type": "vcs",
             "url":  "https://github.com/lthrt/SchemaVisualizerBundle.git"
         }
     ],
@@ -49,9 +45,7 @@
         "lthrt/entity-json-bundle": "dev-master",
         "lthrt/entity-logger-bundle": "dev-master",
         "lthrt/generator-bundle": "dev-master",
-        "lthrt/json-view-bundle": "dev-master",
-        "lthrt/schema-visualizer-bundle": "dev-master",
-        "jms/serializer-bundle": "^1.0"
+        "lthrt/schema-visualizer-bundle": "dev-master"
 
     },
     "require-dev": {

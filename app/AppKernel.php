@@ -19,7 +19,6 @@ class AppKernel extends Kernel
             new Lthrt\ContactBundle\LthrtContactBundle(),
             new Lthrt\EntityLoggerBundle\LthrtEntityLoggerBundle(),
             new Lthrt\SchemaVisualizerBundle\LthrtSchemaVisualizerBundle(),
-            new Lthrt\JSONViewBundle\LthrtJSONViewBundle(),
             new Lthrt\EntityJSONBundle\LthrtEntityJSONBundle(),
         ];
 

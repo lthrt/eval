@@ -2,10 +2,6 @@ lthrt_entity_json:
     resource: "@LthrtEntityJSONBundle/Resources/config/routing.yml"
     prefix:   /
 
-lthrt_json_view:
-    resource: "@LthrtJSONViewBundle/Resources/config/routing.yml"
-    prefix:   /
-
 lthrt_schema_visualizer:
     resource: "@LthrtSchemaVisualizerBundle/Resources/config/routing.yml"
     prefix:   /
