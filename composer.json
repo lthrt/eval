@@ -41,7 +41,6 @@
         "lthrt/entity-json-bundle": "dev-master",
         "lthrt/generator-bundle": "dev-master",
         "lthrt/schema-visualizer-bundle": "dev-master"
-
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3"

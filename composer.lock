@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "932b7bdc4cce36644b95fa0254d95e7f",
+    "hash": "1167b7990b956dff3a668125230c2eee",
     "content-hash": "958525f534b21682ceeec6db236cf54e",
     "packages": [
         {
@@ -954,15 +954,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/ContactBundle.git",
-                "reference": "a94892cf8aa5a7780104fba4635498c104a81fa5"
+                "reference": "1f761b46d57d38cecd1e0e526a26c3fcd170e940"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/a94892cf8aa5a7780104fba4635498c104a81fa5",
-                "reference": "a94892cf8aa5a7780104fba4635498c104a81fa5",
+                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/1f761b46d57d38cecd1e0e526a26c3fcd170e940",
+                "reference": "1f761b46d57d38cecd1e0e526a26c3fcd170e940",
                 "shasum": ""
             },
             "require": {
+                "lthrt/entity-json-bundle": "dev-master",
                 "php": ">=5.3.2"
             },
             "require-dev": {
@@ -994,7 +995,7 @@
                 "source": "https://github.com/lthrt/ContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/ContactBundle/issues"
             },
-            "time": "2015-11-17 23:58:56"
+            "time": "2015-11-25 18:32:33"
         },
         {
             "name": "lthrt/entity-json-bundle",
@@ -1003,12 +1004,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/EntityJSONBundle.git",
-                "reference": "75d4659a391e801ec852b8ff9dd9876112b5480d"
+                "reference": "b7467be7ef88d71be88816df29e50b8610e8fd6b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/EntityJSONBundle/zipball/75d4659a391e801ec852b8ff9dd9876112b5480d",
-                "reference": "75d4659a391e801ec852b8ff9dd9876112b5480d",
+                "url": "https://api.github.com/repos/lthrt/EntityJSONBundle/zipball/b7467be7ef88d71be88816df29e50b8610e8fd6b",
+                "reference": "b7467be7ef88d71be88816df29e50b8610e8fd6b",
                 "shasum": ""
             },
             "require": {
@@ -1044,7 +1045,7 @@
                 "source": "https://github.com/lthrt/EntityJSONBundle/tree/master",
                 "issues": "https://github.com/lthrt/EntityJSONBundle/issues"
             },
-            "time": "2015-11-18 00:17:55"
+            "time": "2015-11-25 18:34:08"
         },
         {
             "name": "lthrt/generator-bundle",
