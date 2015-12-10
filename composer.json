@@ -37,12 +37,12 @@
         "sensio/distribution-bundle": "~4.0",
         "sensio/framework-extra-bundle": "^3.0.2",
         "incenteev/composer-parameter-handler": "~2.0",
-        "lthrt/generator-bundle": "dev-master",
         "lthrt/entity-json-bundle": "dev-master",
         "lthrt/contact-bundle": "dev-master",
         "lthrt/schema-visualizer-bundle": "dev-master"
     },
     "require-dev": {
+        "lthrt/generator-bundle": "dev-master",
         "sensio/generator-bundle": "~2.3"
     },
     "scripts": {
