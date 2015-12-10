@@ -24,6 +24,10 @@
         {
             "type": "vcs",
             "url":  "https://github.com/lthrt/SchemaVisualizerBundle.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "https://github.com/lthrt/TemplateBundle.git"
         }
     ],
     "require": {
@@ -39,7 +43,8 @@
         "incenteev/composer-parameter-handler": "~2.0",
         "lthrt/entity-json-bundle": "dev-master",
         "lthrt/contact-bundle": "dev-master",
-        "lthrt/schema-visualizer-bundle": "dev-master"
+        "lthrt/schema-visualizer-bundle": "dev-master",
+        "lthrt/template-bundle": "dev-master"
     },
     "require-dev": {
         "lthrt/generator-bundle": "dev-master",

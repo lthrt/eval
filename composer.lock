@@ -4,9 +4,56 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "aab0563fed4eea120994c825a3efe3ac",
-    "content-hash": "c7833997095cc77649a315b7ea46a579",
+    "hash": "535894938665922d611e6c24d75aefce",
+    "content-hash": "ec7b398f7769a4758a89cf8d28a9dd7b",
     "packages": [
+        {
+            "name": "bmatzner/fontawesome-bundle",
+            "version": "4.4.0",
+            "target-dir": "Bmatzner/FontAwesomeBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bmatzner/BmatznerFontAwesomeBundle.git",
+                "reference": "2ff4fc0fbcfab38428c0458f310f1b6e00cabd1e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bmatzner/BmatznerFontAwesomeBundle/zipball/2ff4fc0fbcfab38428c0458f310f1b6e00cabd1e",
+                "reference": "2ff4fc0fbcfab38428c0458f310f1b6e00cabd1e",
+                "shasum": ""
+            },
+            "require": {
+                "symfony/framework-bundle": ">=2.1"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-0": {
+                    "Bmatzner\\FontAwesomeBundle": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT",
+                "CC BY 3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Bernd Matzner",
+                    "email": "bernd@matznermatzner.de",
+                    "homepage": "http://berndmatzner.de"
+                }
+            ],
+            "description": "FontAwesome Bundle for Symfony2",
+            "homepage": "http://fortawesome.github.com/Font-Awesome/",
+            "keywords": [
+                "css",
+                "graphics",
+                "symfony",
+                "typography",
+                "webfonts"
+            ],
+            "time": "2015-08-11 17:29:13"
+        },
         {
             "name": "doctrine/annotations",
             "version": "v1.2.7",
@@ -957,12 +1004,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/ContactBundle.git",
-                "reference": "1f761b46d57d38cecd1e0e526a26c3fcd170e940"
+                "reference": "bc7ea7b186fb36589ee54e621c3ca14e3e8f4588"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/1f761b46d57d38cecd1e0e526a26c3fcd170e940",
-                "reference": "1f761b46d57d38cecd1e0e526a26c3fcd170e940",
+                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/bc7ea7b186fb36589ee54e621c3ca14e3e8f4588",
+                "reference": "bc7ea7b186fb36589ee54e621c3ca14e3e8f4588",
                 "shasum": ""
             },
             "require": {
@@ -998,7 +1045,7 @@
                 "source": "https://github.com/lthrt/ContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/ContactBundle/issues"
             },
-            "time": "2015-11-25 18:32:33"
+            "time": "2015-12-10 00:05:11"
         },
         {
             "name": "lthrt/entity-json-bundle",
@@ -1007,12 +1054,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/EntityJSONBundle.git",
-                "reference": "b7467be7ef88d71be88816df29e50b8610e8fd6b"
+                "reference": "b27a4bcbb2b1b0d99c0edad411101f5187592aa7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/EntityJSONBundle/zipball/b7467be7ef88d71be88816df29e50b8610e8fd6b",
-                "reference": "b7467be7ef88d71be88816df29e50b8610e8fd6b",
+                "url": "https://api.github.com/repos/lthrt/EntityJSONBundle/zipball/b27a4bcbb2b1b0d99c0edad411101f5187592aa7",
+                "reference": "b27a4bcbb2b1b0d99c0edad411101f5187592aa7",
                 "shasum": ""
             },
             "require": {
@@ -1048,7 +1095,7 @@
                 "source": "https://github.com/lthrt/EntityJSONBundle/tree/master",
                 "issues": "https://github.com/lthrt/EntityJSONBundle/issues"
             },
-            "time": "2015-11-25 18:34:08"
+            "time": "2015-12-09 23:51:28"
         },
         {
             "name": "lthrt/schema-visualizer-bundle",
@@ -1100,6 +1147,56 @@
                 "issues": "https://github.com/lthrt/SchemaVisualizerBundle/issues"
             },
             "time": "2015-10-30 21:29:56"
+        },
+        {
+            "name": "lthrt/template-bundle",
+            "version": "dev-master",
+            "target-dir": "Lthrt/TemplateBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lthrt/TemplateBundle.git",
+                "reference": "e44b79a84071e7b59668ed5ce19e129fe0d94a8d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lthrt/TemplateBundle/zipball/e44b79a84071e7b59668ed5ce19e129fe0d94a8d",
+                "reference": "e44b79a84071e7b59668ed5ce19e129fe0d94a8d",
+                "shasum": ""
+            },
+            "require": {
+                "bmatzner/fontawesome-bundle": "^4.4",
+                "php": ">=5.3.2"
+            },
+            "require-dev": {
+                "symfony/framework-bundle": "~2.7"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-0": {
+                    "Lthrt\\TemplateBundle": ""
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "lthrt",
+                    "email": "lighthart.coder@gmail.com"
+                }
+            ],
+            "description": "Templates, css and js Bundle for Symfony2",
+            "homepage": "https://github.com/lthrt/TemplateBundle",
+            "keywords": [
+                "bundle",
+                "lthrt",
+                "template"
+            ],
+            "support": {
+                "source": "https://github.com/lthrt/TemplateBundle/tree/master",
+                "issues": "https://github.com/lthrt/TemplateBundle/issues"
+            },
+            "time": "2015-12-10 23:27:23"
         },
         {
             "name": "monolog/monolog",
@@ -1808,12 +1905,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/GeneratorBundle.git",
-                "reference": "3537435a9bf36ac8bfb35806c78f08ea43a45f5e"
+                "reference": "542c3d3a0edad27c4048a00595f685036009343c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/GeneratorBundle/zipball/3537435a9bf36ac8bfb35806c78f08ea43a45f5e",
-                "reference": "3537435a9bf36ac8bfb35806c78f08ea43a45f5e",
+                "url": "https://api.github.com/repos/lthrt/GeneratorBundle/zipball/542c3d3a0edad27c4048a00595f685036009343c",
+                "reference": "542c3d3a0edad27c4048a00595f685036009343c",
                 "shasum": ""
             },
             "require": {
@@ -1849,7 +1946,7 @@
                 "source": "https://github.com/lthrt/GeneratorBundle/tree/master",
                 "issues": "https://github.com/lthrt/GeneratorBundle/issues"
             },
-            "time": "2015-10-28 21:27:41"
+            "time": "2015-12-10 00:00:32"
         },
         {
             "name": "sensio/generator-bundle",
@@ -1906,6 +2003,7 @@
         "lthrt/entity-json-bundle": 20,
         "lthrt/contact-bundle": 20,
         "lthrt/schema-visualizer-bundle": 20,
+        "lthrt/template-bundle": 20,
         "lthrt/generator-bundle": 20
     },
     "prefer-stable": false,
