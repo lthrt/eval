@@ -124,16 +124,16 @@
         },
         {
             "name": "doctrine/cache",
-            "version": "v1.5.2",
+            "version": "v1.5.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/cache.git",
-                "reference": "47c7128262da274f590ae6f86eb137a7a64e82af"
+                "reference": "47cdc76ceb95cc591d9c79a36dc3794975b5d136"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/cache/zipball/47c7128262da274f590ae6f86eb137a7a64e82af",
-                "reference": "47c7128262da274f590ae6f86eb137a7a64e82af",
+                "url": "https://api.github.com/repos/doctrine/cache/zipball/47cdc76ceb95cc591d9c79a36dc3794975b5d136",
+                "reference": "47cdc76ceb95cc591d9c79a36dc3794975b5d136",
                 "shasum": ""
             },
             "require": {
@@ -190,7 +190,7 @@
                 "cache",
                 "caching"
             ],
-            "time": "2015-12-03 10:50:37"
+            "time": "2015-12-19 05:03:47"
         },
         {
             "name": "doctrine/collections",
@@ -1004,12 +1004,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/ContactBundle.git",
-                "reference": "bc7ea7b186fb36589ee54e621c3ca14e3e8f4588"
+                "reference": "5b283dbba78fe8ec484cbc6e4ad49b9ed310e32a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/bc7ea7b186fb36589ee54e621c3ca14e3e8f4588",
-                "reference": "bc7ea7b186fb36589ee54e621c3ca14e3e8f4588",
+                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/5b283dbba78fe8ec484cbc6e4ad49b9ed310e32a",
+                "reference": "5b283dbba78fe8ec484cbc6e4ad49b9ed310e32a",
                 "shasum": ""
             },
             "require": {
@@ -1045,7 +1045,7 @@
                 "source": "https://github.com/lthrt/ContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/ContactBundle/issues"
             },
-            "time": "2015-12-10 00:05:11"
+            "time": "2015-12-21 23:22:34"
         },
         {
             "name": "lthrt/entity-json-bundle",
@@ -1054,12 +1054,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/EntityJSONBundle.git",
-                "reference": "b27a4bcbb2b1b0d99c0edad411101f5187592aa7"
+                "reference": "e8813b1ef3b1f016d3fe6a0840d5230499143182"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/EntityJSONBundle/zipball/b27a4bcbb2b1b0d99c0edad411101f5187592aa7",
-                "reference": "b27a4bcbb2b1b0d99c0edad411101f5187592aa7",
+                "url": "https://api.github.com/repos/lthrt/EntityJSONBundle/zipball/e8813b1ef3b1f016d3fe6a0840d5230499143182",
+                "reference": "e8813b1ef3b1f016d3fe6a0840d5230499143182",
                 "shasum": ""
             },
             "require": {
@@ -1095,7 +1095,7 @@
                 "source": "https://github.com/lthrt/EntityJSONBundle/tree/master",
                 "issues": "https://github.com/lthrt/EntityJSONBundle/issues"
             },
-            "time": "2015-12-09 23:51:28"
+            "time": "2015-12-21 17:37:22"
         },
         {
             "name": "lthrt/schema-visualizer-bundle",
@@ -1155,12 +1155,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/TemplateBundle.git",
-                "reference": "e44b79a84071e7b59668ed5ce19e129fe0d94a8d"
+                "reference": "93b74f66935657134c950f6fa9a80cb8fb1f1b81"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/TemplateBundle/zipball/e44b79a84071e7b59668ed5ce19e129fe0d94a8d",
-                "reference": "e44b79a84071e7b59668ed5ce19e129fe0d94a8d",
+                "url": "https://api.github.com/repos/lthrt/TemplateBundle/zipball/93b74f66935657134c950f6fa9a80cb8fb1f1b81",
+                "reference": "93b74f66935657134c950f6fa9a80cb8fb1f1b81",
                 "shasum": ""
             },
             "require": {
@@ -1196,7 +1196,7 @@
                 "source": "https://github.com/lthrt/TemplateBundle/tree/master",
                 "issues": "https://github.com/lthrt/TemplateBundle/issues"
             },
-            "time": "2015-12-10 23:27:23"
+            "time": "2015-12-10 23:37:37"
         },
         {
             "name": "monolog/monolog",
@@ -1375,16 +1375,16 @@
         },
         {
             "name": "sensio/framework-extra-bundle",
-            "version": "v3.0.11",
+            "version": "v3.0.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/SensioFrameworkExtraBundle.git",
-                "reference": "a79e205737b58d557c05caef6dfa8f94d8084bca"
+                "reference": "3e8936fe13aa4086644977d334d8fcd275f50357"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/SensioFrameworkExtraBundle/zipball/a79e205737b58d557c05caef6dfa8f94d8084bca",
-                "reference": "a79e205737b58d557c05caef6dfa8f94d8084bca",
+                "url": "https://api.github.com/repos/sensiolabs/SensioFrameworkExtraBundle/zipball/3e8936fe13aa4086644977d334d8fcd275f50357",
+                "reference": "3e8936fe13aa4086644977d334d8fcd275f50357",
                 "shasum": ""
             },
             "require": {
@@ -1426,7 +1426,7 @@
                 "annotations",
                 "controllers"
             ],
-            "time": "2015-10-28 15:47:04"
+            "time": "2015-12-18 17:39:27"
         },
         {
             "name": "sensiolabs/security-checker",
@@ -1905,12 +1905,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/GeneratorBundle.git",
-                "reference": "542c3d3a0edad27c4048a00595f685036009343c"
+                "reference": "5aa41238b1802206360246f9ee94509e0dccae4a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/GeneratorBundle/zipball/542c3d3a0edad27c4048a00595f685036009343c",
-                "reference": "542c3d3a0edad27c4048a00595f685036009343c",
+                "url": "https://api.github.com/repos/lthrt/GeneratorBundle/zipball/5aa41238b1802206360246f9ee94509e0dccae4a",
+                "reference": "5aa41238b1802206360246f9ee94509e0dccae4a",
                 "shasum": ""
             },
             "require": {
@@ -1946,7 +1946,7 @@
                 "source": "https://github.com/lthrt/GeneratorBundle/tree/master",
                 "issues": "https://github.com/lthrt/GeneratorBundle/issues"
             },
-            "time": "2015-12-10 00:00:32"
+            "time": "2015-12-21 23:24:44"
         },
         {
             "name": "sensio/generator-bundle",
