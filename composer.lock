@@ -1054,12 +1054,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/EntityJSONBundle.git",
-                "reference": "e8813b1ef3b1f016d3fe6a0840d5230499143182"
+                "reference": "83a9dc8c1052c553da27423ce0411b6f13aa432d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/EntityJSONBundle/zipball/e8813b1ef3b1f016d3fe6a0840d5230499143182",
-                "reference": "e8813b1ef3b1f016d3fe6a0840d5230499143182",
+                "url": "https://api.github.com/repos/lthrt/EntityJSONBundle/zipball/83a9dc8c1052c553da27423ce0411b6f13aa432d",
+                "reference": "83a9dc8c1052c553da27423ce0411b6f13aa432d",
                 "shasum": ""
             },
             "require": {
@@ -1095,7 +1095,7 @@
                 "source": "https://github.com/lthrt/EntityJSONBundle/tree/master",
                 "issues": "https://github.com/lthrt/EntityJSONBundle/issues"
             },
-            "time": "2015-12-21 17:37:22"
+            "time": "2015-12-22 19:16:56"
         },
         {
             "name": "lthrt/schema-visualizer-bundle",
