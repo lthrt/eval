@@ -1004,12 +1004,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/ContactBundle.git",
-                "reference": "5b283dbba78fe8ec484cbc6e4ad49b9ed310e32a"
+                "reference": "e929d62371d3a92d10050d883dc346d77cd147c2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/5b283dbba78fe8ec484cbc6e4ad49b9ed310e32a",
-                "reference": "5b283dbba78fe8ec484cbc6e4ad49b9ed310e32a",
+                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/e929d62371d3a92d10050d883dc346d77cd147c2",
+                "reference": "e929d62371d3a92d10050d883dc346d77cd147c2",
                 "shasum": ""
             },
             "require": {
@@ -1045,7 +1045,7 @@
                 "source": "https://github.com/lthrt/ContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/ContactBundle/issues"
             },
-            "time": "2015-12-21 23:22:34"
+            "time": "2015-12-22 17:22:14"
         },
         {
             "name": "lthrt/entity-json-bundle",
