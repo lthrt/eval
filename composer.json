@@ -28,6 +28,10 @@
         {
             "type": "vcs",
             "url":  "https://github.com/lthrt/TemplateBundle.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "https://github.com/lthrt/TinkerBundle.git"
         }
     ],
     "require": {
@@ -48,6 +52,7 @@
     },
     "require-dev": {
         "lthrt/generator-bundle": "dev-master",
+        "lthrt/tinker-bundle": "dev-master",
         "sensio/generator-bundle": "~2.3"
     },
     "scripts": {
