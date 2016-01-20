@@ -52,7 +52,6 @@ assetic:
     bundles:
             - LthrtTemplateBundle
 
-
 # Doctrine Configuration
 doctrine:
     dbal:

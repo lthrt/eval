@@ -43,6 +43,9 @@ monolog:
 
 assetic:
     use_controller: true
+    bundles:
+            - LthrtTemplateBundle
+            - LthrtTinkerBundle
 
 #swiftmailer:
 #    delivery_address: me@example.com
