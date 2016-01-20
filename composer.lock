@@ -1003,12 +1003,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/ContactBundle.git",
-                "reference": "9bf4f89f2cc2050ce11834b39943c4283f93fa82"
+                "reference": "f0314ca935b1576efb74389378542c54a0271140"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/9bf4f89f2cc2050ce11834b39943c4283f93fa82",
-                "reference": "9bf4f89f2cc2050ce11834b39943c4283f93fa82",
+                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/f0314ca935b1576efb74389378542c54a0271140",
+                "reference": "f0314ca935b1576efb74389378542c54a0271140",
                 "shasum": ""
             },
             "require": {
@@ -1044,7 +1044,7 @@
                 "source": "https://github.com/lthrt/ContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/ContactBundle/issues"
             },
-            "time": "2016-01-15 02:12:19"
+            "time": "2016-01-20 03:01:27"
         },
         {
             "name": "lthrt/entity-json-bundle",
@@ -1053,12 +1053,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/EntityJSONBundle.git",
-                "reference": "83a9dc8c1052c553da27423ce0411b6f13aa432d"
+                "reference": "0f9e45543c1a9f510703a8ceebdba673db31659c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/EntityJSONBundle/zipball/83a9dc8c1052c553da27423ce0411b6f13aa432d",
-                "reference": "83a9dc8c1052c553da27423ce0411b6f13aa432d",
+                "url": "https://api.github.com/repos/lthrt/EntityJSONBundle/zipball/0f9e45543c1a9f510703a8ceebdba673db31659c",
+                "reference": "0f9e45543c1a9f510703a8ceebdba673db31659c",
                 "shasum": ""
             },
             "require": {
@@ -1094,7 +1094,7 @@
                 "source": "https://github.com/lthrt/EntityJSONBundle/tree/master",
                 "issues": "https://github.com/lthrt/EntityJSONBundle/issues"
             },
-            "time": "2015-12-22 19:16:56"
+            "time": "2016-01-20 02:50:05"
         },
         {
             "name": "lthrt/schema-visualizer-bundle",
@@ -1703,16 +1703,16 @@
         },
         {
             "name": "symfony/swiftmailer-bundle",
-            "version": "v2.3.10",
+            "version": "v2.3.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/swiftmailer-bundle.git",
-                "reference": "de5a2ddcaf91d2e44c19161e0fe8ed88022ceb51"
+                "reference": "5e1a90f28213231ceee19c953bbebc5b5b95c690"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/swiftmailer-bundle/zipball/de5a2ddcaf91d2e44c19161e0fe8ed88022ceb51",
-                "reference": "de5a2ddcaf91d2e44c19161e0fe8ed88022ceb51",
+                "url": "https://api.github.com/repos/symfony/swiftmailer-bundle/zipball/5e1a90f28213231ceee19c953bbebc5b5b95c690",
+                "reference": "5e1a90f28213231ceee19c953bbebc5b5b95c690",
                 "shasum": ""
             },
             "require": {
@@ -1756,7 +1756,7 @@
             ],
             "description": "Symfony SwiftmailerBundle",
             "homepage": "http://symfony.com",
-            "time": "2016-01-14 10:25:38"
+            "time": "2016-01-15 16:41:20"
         },
         {
             "name": "symfony/symfony",
@@ -1953,12 +1953,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/GeneratorBundle.git",
-                "reference": "8d910d6572d5fb46a28ce56e449a6b48ea8566d3"
+                "reference": "ea5708c293c967305e98240a33a6006f6857e82e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/GeneratorBundle/zipball/8d910d6572d5fb46a28ce56e449a6b48ea8566d3",
-                "reference": "8d910d6572d5fb46a28ce56e449a6b48ea8566d3",
+                "url": "https://api.github.com/repos/lthrt/GeneratorBundle/zipball/ea5708c293c967305e98240a33a6006f6857e82e",
+                "reference": "ea5708c293c967305e98240a33a6006f6857e82e",
                 "shasum": ""
             },
             "require": {
@@ -1994,7 +1994,7 @@
                 "source": "https://github.com/lthrt/GeneratorBundle/tree/master",
                 "issues": "https://github.com/lthrt/GeneratorBundle/issues"
             },
-            "time": "2015-12-31 16:42:46"
+            "time": "2016-01-20 02:50:38"
         },
         {
             "name": "lthrt/tinker-bundle",
@@ -2003,12 +2003,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/TinkerBundle.git",
-                "reference": "e999b6aada547672d0f2d898420eebb1ab150af5"
+                "reference": "d362307b14efba0f3b4669689a4190572e670cf2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/TinkerBundle/zipball/e999b6aada547672d0f2d898420eebb1ab150af5",
-                "reference": "e999b6aada547672d0f2d898420eebb1ab150af5",
+                "url": "https://api.github.com/repos/lthrt/TinkerBundle/zipball/d362307b14efba0f3b4669689a4190572e670cf2",
+                "reference": "d362307b14efba0f3b4669689a4190572e670cf2",
                 "shasum": ""
             },
             "require": {
@@ -2043,7 +2043,7 @@
                 "source": "https://github.com/lthrt/TinkerBundle/tree/master",
                 "issues": "https://github.com/lthrt/TinkerBundle/issues"
             },
-            "time": "2016-01-15 15:14:04"
+            "time": "2016-01-15 16:12:48"
         },
         {
             "name": "sensio/generator-bundle",
