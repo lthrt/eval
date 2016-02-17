@@ -32,6 +32,10 @@
         {
             "type": "vcs",
             "url":  "https://github.com/lthrt/TinkerBundle.git"
+        },
+        {
+            "type": "vcs",
+            "url":  "https://github.com/lthrt/UserBundle.git"
         }
     ],
     "require": {
@@ -48,7 +52,8 @@
         "lthrt/entity-json-bundle": "dev-master",
         "lthrt/contact-bundle": "dev-master",
         "lthrt/schema-visualizer-bundle": "dev-master",
-        "lthrt/template-bundle": "dev-master"
+        "lthrt/template-bundle": "dev-master",
+        "lthrt/user-bundle": "dev-master"
     },
     "require-dev": {
         "lthrt/generator-bundle": "dev-master",

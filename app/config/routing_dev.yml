@@ -16,3 +16,7 @@ _errors:
 
 _main:
     resource: routing.yml
+
+lthrt_entity_json:
+    resource: "@LthrtEntityJSONBundle/Resources/config/routing_dev.yml"
+    prefix:   /

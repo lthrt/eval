@@ -20,6 +20,7 @@ class AppKernel extends Kernel
             new Lthrt\EntityJSONBundle\LthrtEntityJSONBundle(),
             new Lthrt\SchemaVisualizerBundle\LthrtSchemaVisualizerBundle(),
             new Lthrt\TemplateBundle\LthrtTemplateBundle(),
+            new Lthrt\UserBundle\LthrtUserBundle(),
         ];
 
         if (in_array($this->getEnvironment(), ['dev', 'test'])) {
