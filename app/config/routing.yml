@@ -10,8 +10,8 @@ lthrt_template:
     resource: "@LthrtTemplateBundle/Resources/config/routing.yml"
     prefix:   /
 
-lthrt_entity_json:
-    resource: "@LthrtEntityJSONBundle/Resources/config/routing.yml"
+lthrt_entity:
+    resource: "@LthrtEntityBundle/Resources/config/routing.yml"
     prefix:   /
 
 # lthrt_schema_visualizer:

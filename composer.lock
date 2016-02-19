@@ -1005,12 +1005,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/ContactBundle.git",
-                "reference": "b102de4649c98a72059be4d153ec9c546e0813d7"
+                "reference": "235950aec0596e8a4a9e6e1e0e826f4b5f5b8ee0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/b102de4649c98a72059be4d153ec9c546e0813d7",
-                "reference": "b102de4649c98a72059be4d153ec9c546e0813d7",
+                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/235950aec0596e8a4a9e6e1e0e826f4b5f5b8ee0",
+                "reference": "235950aec0596e8a4a9e6e1e0e826f4b5f5b8ee0",
                 "shasum": ""
             },
             "require": {
@@ -1046,7 +1046,7 @@
                 "source": "https://github.com/lthrt/ContactBundle/tree/traits",
                 "issues": "https://github.com/lthrt/ContactBundle/issues"
             },
-            "time": "2016-02-19 16:19:50"
+            "time": "2016-02-19 19:22:09"
         },
         {
             "name": "lthrt/entity-bundle",
@@ -1055,12 +1055,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/EntityBundle.git",
-                "reference": "8b6524b04e033e03ca776704fd06953beb423249"
+                "reference": "66de3fa83cc7431466099e5973a57bb2e1d41d7f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/EntityBundle/zipball/8b6524b04e033e03ca776704fd06953beb423249",
-                "reference": "8b6524b04e033e03ca776704fd06953beb423249",
+                "url": "https://api.github.com/repos/lthrt/EntityBundle/zipball/66de3fa83cc7431466099e5973a57bb2e1d41d7f",
+                "reference": "66de3fa83cc7431466099e5973a57bb2e1d41d7f",
                 "shasum": ""
             },
             "require": {
@@ -1095,7 +1095,7 @@
                 "source": "https://github.com/lthrt/EntityBundle/tree/traits",
                 "issues": "https://github.com/lthrt/EntityBundle/issues"
             },
-            "time": "2016-02-19 16:28:19"
+            "time": "2016-02-19 22:41:51"
         },
         {
             "name": "lthrt/template-bundle",
