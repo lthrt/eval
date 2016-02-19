@@ -1055,12 +1055,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/EntityBundle.git",
-                "reference": "66de3fa83cc7431466099e5973a57bb2e1d41d7f"
+                "reference": "378b4bfd1be3fcf8c0fb486f3bfbcb9b89481824"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/EntityBundle/zipball/66de3fa83cc7431466099e5973a57bb2e1d41d7f",
-                "reference": "66de3fa83cc7431466099e5973a57bb2e1d41d7f",
+                "url": "https://api.github.com/repos/lthrt/EntityBundle/zipball/378b4bfd1be3fcf8c0fb486f3bfbcb9b89481824",
+                "reference": "378b4bfd1be3fcf8c0fb486f3bfbcb9b89481824",
                 "shasum": ""
             },
             "require": {
@@ -1095,7 +1095,7 @@
                 "source": "https://github.com/lthrt/EntityBundle/tree/traits",
                 "issues": "https://github.com/lthrt/EntityBundle/issues"
             },
-            "time": "2016-02-19 22:41:51"
+            "time": "2016-02-19 22:57:08"
         },
         {
             "name": "lthrt/template-bundle",
