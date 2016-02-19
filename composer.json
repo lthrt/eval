@@ -15,7 +15,7 @@
         },
         {
             "type": "vcs",
-            "url":  "https://github.com/lthrt/EntityJSONBundle.git"
+            "url":  "https://github.com/lthrt/EntityBundle.git"
         },
         {
             "type": "vcs",
@@ -49,9 +49,8 @@
         "sensio/distribution-bundle": "~4.0",
         "sensio/framework-extra-bundle": "^3.0.2",
         "incenteev/composer-parameter-handler": "~2.0",
-        "lthrt/entity-json-bundle": "dev-master",
-        "lthrt/contact-bundle": "dev-master",
-        "lthrt/schema-visualizer-bundle": "dev-master",
+        "lthrt/entity-bundle": "dev-traits",
+        "lthrt/contact-bundle": "dev-traits",
         "lthrt/template-bundle": "dev-master",
         "lthrt/user-bundle": "dev-master"
     },

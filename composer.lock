@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c0a0e089b4c62f2d00d6d4d5c6a0c120",
-    "content-hash": "00675639281d735de2b7c170fbac8cdb",
+    "hash": "ca0a495f5c1ff941de293ae88c258412",
+    "content-hash": "be05a5851b7cb4c3831ca21a245b8fb2",
     "packages": [
         {
             "name": "bmatzner/fontawesome-bundle",
@@ -1000,21 +1000,21 @@
         },
         {
             "name": "lthrt/contact-bundle",
-            "version": "dev-master",
+            "version": "dev-traits",
             "target-dir": "Lthrt/ContactBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/ContactBundle.git",
-                "reference": "d0c47a67194e6933d8ae3f29c958f9b2d5aa3d7e"
+                "reference": "b102de4649c98a72059be4d153ec9c546e0813d7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/d0c47a67194e6933d8ae3f29c958f9b2d5aa3d7e",
-                "reference": "d0c47a67194e6933d8ae3f29c958f9b2d5aa3d7e",
+                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/b102de4649c98a72059be4d153ec9c546e0813d7",
+                "reference": "b102de4649c98a72059be4d153ec9c546e0813d7",
                 "shasum": ""
             },
             "require": {
-                "lthrt/entity-json-bundle": "dev-master",
+                "lthrt/entity-bundle": "dev-traits",
                 "php": ">=5.3.2"
             },
             "require-dev": {
@@ -1043,24 +1043,24 @@
                 "lthrt"
             ],
             "support": {
-                "source": "https://github.com/lthrt/ContactBundle/tree/master",
+                "source": "https://github.com/lthrt/ContactBundle/tree/traits",
                 "issues": "https://github.com/lthrt/ContactBundle/issues"
             },
-            "time": "2016-02-17 21:35:05"
+            "time": "2016-02-19 16:19:50"
         },
         {
-            "name": "lthrt/entity-json-bundle",
-            "version": "dev-master",
-            "target-dir": "Lthrt/EntityJSONBundle",
+            "name": "lthrt/entity-bundle",
+            "version": "dev-traits",
+            "target-dir": "Lthrt/EntityBundle",
             "source": {
                 "type": "git",
-                "url": "https://github.com/lthrt/EntityJSONBundle.git",
-                "reference": "e5696a0637d902948f63b9b130bf366a1b14fe14"
+                "url": "https://github.com/lthrt/EntityBundle.git",
+                "reference": "8b6524b04e033e03ca776704fd06953beb423249"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/EntityJSONBundle/zipball/e5696a0637d902948f63b9b130bf366a1b14fe14",
-                "reference": "e5696a0637d902948f63b9b130bf366a1b14fe14",
+                "url": "https://api.github.com/repos/lthrt/EntityBundle/zipball/8b6524b04e033e03ca776704fd06953beb423249",
+                "reference": "8b6524b04e033e03ca776704fd06953beb423249",
                 "shasum": ""
             },
             "require": {
@@ -1072,7 +1072,7 @@
             "type": "symfony-bundle",
             "autoload": {
                 "psr-0": {
-                    "Lthrt\\EntityJSONBundle": ""
+                    "Lthrt\\EntityBundle": ""
                 }
             },
             "license": [
@@ -1085,69 +1085,17 @@
                 }
             ],
             "description": "Json Viewing for Twig Bundle for Symfony2",
-            "homepage": "https://github.com/lthrt/EntityJSONBundle",
+            "homepage": "https://github.com/lthrt/EntityBundle",
             "keywords": [
                 "bundle",
-                "json",
                 "lthrt",
                 "view"
             ],
             "support": {
-                "source": "https://github.com/lthrt/EntityJSONBundle/tree/master",
-                "issues": "https://github.com/lthrt/EntityJSONBundle/issues"
+                "source": "https://github.com/lthrt/EntityBundle/tree/traits",
+                "issues": "https://github.com/lthrt/EntityBundle/issues"
             },
-            "time": "2016-02-17 21:14:37"
-        },
-        {
-            "name": "lthrt/schema-visualizer-bundle",
-            "version": "dev-master",
-            "target-dir": "Lthrt/SchemaVisualizerBundle",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/lthrt/SchemaVisualizerBundle.git",
-                "reference": "f7e679f9dc4df92f87a30f63ca984f156bd80a48"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/SchemaVisualizerBundle/zipball/f7e679f9dc4df92f87a30f63ca984f156bd80a48",
-                "reference": "f7e679f9dc4df92f87a30f63ca984f156bd80a48",
-                "shasum": ""
-            },
-            "require": {
-                "lthrt/entity-json-bundle": "dev-master",
-                "php": ">=5.3.2"
-            },
-            "require-dev": {
-                "symfony/framework-bundle": "~2.7"
-            },
-            "type": "symfony-bundle",
-            "autoload": {
-                "psr-0": {
-                    "Lthrt\\SchemaVisualizerBundle": ""
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "lthrt",
-                    "email": "lighthart.coder@gmail.com"
-                }
-            ],
-            "description": "Schema Visualizer Bundle for Symfony2",
-            "homepage": "https://github.com/lthrt/SchemaVisualizerBundle",
-            "keywords": [
-                "bundle",
-                "lthrt",
-                "schema",
-                "visualization"
-            ],
-            "support": {
-                "source": "https://github.com/lthrt/SchemaVisualizerBundle/tree/master",
-                "issues": "https://github.com/lthrt/SchemaVisualizerBundle/issues"
-            },
-            "time": "2015-10-30 21:29:56"
+            "time": "2016-02-19 16:28:19"
         },
         {
             "name": "lthrt/template-bundle",
@@ -2148,9 +2096,8 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "lthrt/entity-json-bundle": 20,
+        "lthrt/entity-bundle": 20,
         "lthrt/contact-bundle": 20,
-        "lthrt/schema-visualizer-bundle": 20,
         "lthrt/template-bundle": 20,
         "lthrt/user-bundle": 20,
         "lthrt/generator-bundle": 20,
