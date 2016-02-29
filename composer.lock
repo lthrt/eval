@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ca0a495f5c1ff941de293ae88c258412",
-    "content-hash": "be05a5851b7cb4c3831ca21a245b8fb2",
+    "hash": "55180f91a74d623a68c931b867e6e169",
+    "content-hash": "af699465fb3364bd3ca9223770e8dae7",
     "packages": [
         {
             "name": "bmatzner/fontawesome-bundle",
@@ -1000,21 +1000,21 @@
         },
         {
             "name": "lthrt/contact-bundle",
-            "version": "dev-traits",
+            "version": "dev-master",
             "target-dir": "Lthrt/ContactBundle",
             "source": {
                 "type": "git",
-                "url": "https://github.com/lthrt/ContactBundle.git",
-                "reference": "368b0cda4169c2f4aa09af2d2c33a91d581e91b2"
+                "url": "https://github.com/lthrt/LthrtContactBundle.git",
+                "reference": "54e9c3988ae264d46f15e9ada7441ac5121423dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/ContactBundle/zipball/368b0cda4169c2f4aa09af2d2c33a91d581e91b2",
-                "reference": "368b0cda4169c2f4aa09af2d2c33a91d581e91b2",
+                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/54e9c3988ae264d46f15e9ada7441ac5121423dc",
+                "reference": "54e9c3988ae264d46f15e9ada7441ac5121423dc",
                 "shasum": ""
             },
             "require": {
-                "lthrt/entity-bundle": "dev-traits",
+                "lthrt/entity-bundle": "dev-master",
                 "php": ">=5.3.2"
             },
             "require-dev": {
@@ -1036,31 +1036,31 @@
                 }
             ],
             "description": "lthrt Contact Management Bundle for Symfony2",
-            "homepage": "https://github.com/lthrt/ContactBundle",
+            "homepage": "https://github.com/lthrt/LthrtContactBundle",
             "keywords": [
                 "bundle",
                 "contact",
                 "lthrt"
             ],
             "support": {
-                "source": "https://github.com/lthrt/ContactBundle/tree/traits",
-                "issues": "https://github.com/lthrt/ContactBundle/issues"
+                "source": "https://github.com/lthrt/LthrtContactBundle/tree/master",
+                "issues": "https://github.com/lthrt/LthrtContactBundle/issues"
             },
-            "time": "2016-02-22 23:14:09"
+            "time": "2016-02-29 15:32:46"
         },
         {
             "name": "lthrt/entity-bundle",
-            "version": "dev-traits",
+            "version": "dev-master",
             "target-dir": "Lthrt/EntityBundle",
             "source": {
                 "type": "git",
-                "url": "https://github.com/lthrt/EntityBundle.git",
-                "reference": "2b7b7d297c802e7c233f918c093f61fd3b29d25c"
+                "url": "https://github.com/lthrt/LthrtEntityBundle.git",
+                "reference": "187484f89122565935e6dc698506ff13be1183d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/EntityBundle/zipball/2b7b7d297c802e7c233f918c093f61fd3b29d25c",
-                "reference": "2b7b7d297c802e7c233f918c093f61fd3b29d25c",
+                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/187484f89122565935e6dc698506ff13be1183d0",
+                "reference": "187484f89122565935e6dc698506ff13be1183d0",
                 "shasum": ""
             },
             "require": {
@@ -1085,17 +1085,17 @@
                 }
             ],
             "description": "Json Viewing for Twig Bundle for Symfony2",
-            "homepage": "https://github.com/lthrt/EntityBundle",
+            "homepage": "https://github.com/lthrt/LthrtEntityBundle",
             "keywords": [
                 "bundle",
-                "lthrt",
-                "view"
+                "entity",
+                "lthrt"
             ],
             "support": {
-                "source": "https://github.com/lthrt/EntityBundle/tree/traits",
-                "issues": "https://github.com/lthrt/EntityBundle/issues"
+                "source": "https://github.com/lthrt/LthrtEntityBundle/tree/master",
+                "issues": "https://github.com/lthrt/LthrtEntityBundle/issues"
             },
-            "time": "2016-02-23 01:42:28"
+            "time": "2016-02-28 19:42:14"
         },
         {
             "name": "lthrt/template-bundle",
@@ -1104,12 +1104,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/TemplateBundle.git",
-                "reference": "4a1f53838b443eea8661eb615d61bc7589335e35"
+                "reference": "0848c4afd75c403cb35a3425f2900ebe0527f7e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/TemplateBundle/zipball/4a1f53838b443eea8661eb615d61bc7589335e35",
-                "reference": "4a1f53838b443eea8661eb615d61bc7589335e35",
+                "url": "https://api.github.com/repos/lthrt/TemplateBundle/zipball/0848c4afd75c403cb35a3425f2900ebe0527f7e9",
+                "reference": "0848c4afd75c403cb35a3425f2900ebe0527f7e9",
                 "shasum": ""
             },
             "require": {
@@ -1145,7 +1145,7 @@
                 "source": "https://github.com/lthrt/TemplateBundle/tree/master",
                 "issues": "https://github.com/lthrt/TemplateBundle/issues"
             },
-            "time": "2016-02-07 18:25:07"
+            "time": "2016-02-29 17:08:00"
         },
         {
             "name": "lthrt/user-bundle",
@@ -1275,16 +1275,16 @@
         },
         {
             "name": "paragonie/random_compat",
-            "version": "v1.2.0",
+            "version": "v1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/random_compat.git",
-                "reference": "b0e69d10852716b2ccbdff69c75c477637220790"
+                "reference": "f078eba3bcf140fd69b5fcc3ea5ac809abf729dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/b0e69d10852716b2ccbdff69c75c477637220790",
-                "reference": "b0e69d10852716b2ccbdff69c75c477637220790",
+                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/f078eba3bcf140fd69b5fcc3ea5ac809abf729dc",
+                "reference": "f078eba3bcf140fd69b5fcc3ea5ac809abf729dc",
                 "shasum": ""
             },
             "require": {
@@ -1319,7 +1319,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2016-02-06 03:52:05"
+            "time": "2016-02-29 17:25:04"
         },
         {
             "name": "psr/log",
@@ -1708,6 +1708,62 @@
             "time": "2015-11-17 10:02:29"
         },
         {
+            "name": "symfony/polyfill-apcu",
+            "version": "v1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/polyfill-apcu.git",
+                "reference": "d1911e6caeb4b6a4c8e2d5c46b978a66b3745e4c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/polyfill-apcu/zipball/d1911e6caeb4b6a4c8e2d5c46b978a66b3745e4c",
+                "reference": "d1911e6caeb4b6a4c8e2d5c46b978a66b3745e4c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.1-dev"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "bootstrap.php"
+                ],
+                "classmap": [
+                    "Resources/stubs"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nicolas Grekas",
+                    "email": "p@tchwork.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony polyfill backporting apcu_* functions to lower PHP versions",
+            "homepage": "https://symfony.com",
+            "keywords": [
+                "apcu",
+                "compatibility",
+                "polyfill",
+                "portable",
+                "shim"
+            ],
+            "time": "2016-01-20 09:13:37"
+        },
+        {
             "name": "symfony/swiftmailer-bundle",
             "version": "v2.3.11",
             "source": {
@@ -1766,16 +1822,16 @@
         },
         {
             "name": "symfony/symfony",
-            "version": "v2.7.9",
+            "version": "v2.7.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "d3646cc6875c214d211001e0673ec9e91b5f2da7"
+                "reference": "9a3b6bf6ebee49370aaf15abc1bdeb4b1986a67d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/d3646cc6875c214d211001e0673ec9e91b5f2da7",
-                "reference": "d3646cc6875c214d211001e0673ec9e91b5f2da7",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/9a3b6bf6ebee49370aaf15abc1bdeb4b1986a67d",
+                "reference": "9a3b6bf6ebee49370aaf15abc1bdeb4b1986a67d",
                 "shasum": ""
             },
             "require": {
@@ -1783,6 +1839,7 @@
                 "paragonie/random_compat": "~1.0",
                 "php": ">=5.3.9",
                 "psr/log": "~1.0",
+                "symfony/polyfill-apcu": "~1.1",
                 "twig/twig": "~1.23|~2.0"
             },
             "replace": {
@@ -1839,7 +1896,7 @@
                 "egulias/email-validator": "~1.2",
                 "ircmaxell/password-compat": "~1.0",
                 "monolog/monolog": "~1.11",
-                "ocramius/proxy-manager": "~0.4|~1.0"
+                "ocramius/proxy-manager": "~0.4|~1.0|~2.0"
             },
             "type": "library",
             "extra": {
@@ -1887,7 +1944,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2016-01-14 10:41:56"
+            "time": "2016-02-28 20:37:19"
         },
         {
             "name": "twig/twig",
@@ -1959,12 +2016,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/GeneratorBundle.git",
-                "reference": "cd99339774bfc6ffb7376005f44f3946a33a673e"
+                "reference": "2b3d0b0ba8e0fd6db7101c8df04bd0424dfcc3fd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/GeneratorBundle/zipball/cd99339774bfc6ffb7376005f44f3946a33a673e",
-                "reference": "cd99339774bfc6ffb7376005f44f3946a33a673e",
+                "url": "https://api.github.com/repos/lthrt/GeneratorBundle/zipball/2b3d0b0ba8e0fd6db7101c8df04bd0424dfcc3fd",
+                "reference": "2b3d0b0ba8e0fd6db7101c8df04bd0424dfcc3fd",
                 "shasum": ""
             },
             "require": {
@@ -2000,7 +2057,7 @@
                 "source": "https://github.com/lthrt/GeneratorBundle/tree/master",
                 "issues": "https://github.com/lthrt/GeneratorBundle/issues"
             },
-            "time": "2016-02-17 21:34:51"
+            "time": "2016-02-28 21:45:53"
         },
         {
             "name": "lthrt/tinker-bundle",
@@ -2009,12 +2066,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/TinkerBundle.git",
-                "reference": "39e850ad54378cabff752437ff92b937b7a4f7bc"
+                "reference": "63917d26b6e70b6d2c55cb608e5d12edb5f8df60"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/TinkerBundle/zipball/39e850ad54378cabff752437ff92b937b7a4f7bc",
-                "reference": "39e850ad54378cabff752437ff92b937b7a4f7bc",
+                "url": "https://api.github.com/repos/lthrt/TinkerBundle/zipball/63917d26b6e70b6d2c55cb608e5d12edb5f8df60",
+                "reference": "63917d26b6e70b6d2c55cb608e5d12edb5f8df60",
                 "shasum": ""
             },
             "require": {
@@ -2049,7 +2106,7 @@
                 "source": "https://github.com/lthrt/TinkerBundle/tree/master",
                 "issues": "https://github.com/lthrt/TinkerBundle/issues"
             },
-            "time": "2016-02-07 18:25:50"
+            "time": "2016-02-29 21:25:37"
         },
         {
             "name": "sensio/generator-bundle",
