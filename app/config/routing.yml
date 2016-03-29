@@ -1,27 +1,3 @@
-lthrt_grid:
-    resource: "@LthrtGridBundle/Resources/config/routing.yml"
-    prefix:   /
-
-lthrt_user:
-    resource: "@LthrtUserBundle/Resources/config/routing.yml"
-    prefix:   /
-
-lthrt_tinker:
-    resource: "@LthrtTinkerBundle/Resources/config/routing.yml"
-    prefix:   /
-
-lthrt_template:
-    resource: "@LthrtTemplateBundle/Resources/config/routing.yml"
-    prefix:   /
-
-lthrt_entity:
-    resource: "@LthrtEntityBundle/Resources/config/routing.yml"
-    prefix:   /
-
-# lthrt_schema_visualizer:
-#     resource: "@LthrtSchemaVisualizerBundle/Resources/config/routing.yml"
-#     prefix:   /
-
-lthrt_contact:
-    resource: "@LthrtContactBundle/Resources/config/routing.yml"
-    prefix:   /
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
