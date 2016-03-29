@@ -4,22 +4,22 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "55180f91a74d623a68c931b867e6e169",
-    "content-hash": "af699465fb3364bd3ca9223770e8dae7",
+    "hash": "8eec1af44257a635b3a62062fb9cf219",
+    "content-hash": "95a63ff5334e3e8881d06ea42441975f",
     "packages": [
         {
             "name": "bmatzner/fontawesome-bundle",
-            "version": "4.4.0",
+            "version": "4.5.0",
             "target-dir": "Bmatzner/FontAwesomeBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bmatzner/BmatznerFontAwesomeBundle.git",
-                "reference": "2ff4fc0fbcfab38428c0458f310f1b6e00cabd1e"
+                "reference": "93a080975bba1e62ec7e0b5d5172b2d71e95848f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bmatzner/BmatznerFontAwesomeBundle/zipball/2ff4fc0fbcfab38428c0458f310f1b6e00cabd1e",
-                "reference": "2ff4fc0fbcfab38428c0458f310f1b6e00cabd1e",
+                "url": "https://api.github.com/repos/bmatzner/BmatznerFontAwesomeBundle/zipball/93a080975bba1e62ec7e0b5d5172b2d71e95848f",
+                "reference": "93a080975bba1e62ec7e0b5d5172b2d71e95848f",
                 "shasum": ""
             },
             "require": {
@@ -52,7 +52,7 @@
                 "typography",
                 "webfonts"
             ],
-            "time": "2015-08-11 17:29:13"
+            "time": "2016-03-26 19:47:17"
         },
         {
             "name": "doctrine/annotations",
@@ -1005,12 +1005,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtContactBundle.git",
-                "reference": "68400dc377cf0f6bfffc004e1c61b6cbfd7d18b2"
+                "reference": "ec3d3453ffaa0f99ffe2d4039aec543329bf8702"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/68400dc377cf0f6bfffc004e1c61b6cbfd7d18b2",
-                "reference": "68400dc377cf0f6bfffc004e1c61b6cbfd7d18b2",
+                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/ec3d3453ffaa0f99ffe2d4039aec543329bf8702",
+                "reference": "ec3d3453ffaa0f99ffe2d4039aec543329bf8702",
                 "shasum": ""
             },
             "require": {
@@ -1046,7 +1046,7 @@
                 "source": "https://github.com/lthrt/LthrtContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtContactBundle/issues"
             },
-            "time": "2016-03-21 22:38:57"
+            "time": "2016-03-21 22:54:39"
         },
         {
             "name": "lthrt/entity-bundle",
@@ -1098,18 +1098,67 @@
             "time": "2016-03-21 22:39:24"
         },
         {
+            "name": "lthrt/grid-bundle",
+            "version": "dev-master",
+            "target-dir": "Lthrt/GridBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lthrt/LthrtGridBundle.git",
+                "reference": "73a2dc26e6f1c0f17a5618b8a1ed7a97fd79159d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lthrt/LthrtGridBundle/zipball/73a2dc26e6f1c0f17a5618b8a1ed7a97fd79159d",
+                "reference": "73a2dc26e6f1c0f17a5618b8a1ed7a97fd79159d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.2"
+            },
+            "require-dev": {
+                "symfony/framework-bundle": "~3.0"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-0": {
+                    "Lthrt\\GridBundle": ""
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "lthrt",
+                    "email": "lighthart.coder@gmail.com"
+                }
+            ],
+            "description": "lthrt Grid Bundle for Symfony2",
+            "homepage": "https://github.com/lthrt/LthrtGridBundle",
+            "keywords": [
+                "bundle",
+                "grid",
+                "lthrt"
+            ],
+            "support": {
+                "source": "https://github.com/lthrt/LthrtGridBundle/tree/master",
+                "issues": "https://github.com/lthrt/LthrtGridBundle/issues"
+            },
+            "time": "2016-03-29 16:04:35"
+        },
+        {
             "name": "lthrt/template-bundle",
             "version": "dev-master",
             "target-dir": "Lthrt/TemplateBundle",
             "source": {
                 "type": "git",
-                "url": "https://github.com/lthrt/TemplateBundle.git",
-                "reference": "0848c4afd75c403cb35a3425f2900ebe0527f7e9"
+                "url": "https://github.com/lthrt/LthrtTemplateBundle.git",
+                "reference": "828b452dbb4176dccbf19e40c6e07d06fddd0508"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/TemplateBundle/zipball/0848c4afd75c403cb35a3425f2900ebe0527f7e9",
-                "reference": "0848c4afd75c403cb35a3425f2900ebe0527f7e9",
+                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/828b452dbb4176dccbf19e40c6e07d06fddd0508",
+                "reference": "828b452dbb4176dccbf19e40c6e07d06fddd0508",
                 "shasum": ""
             },
             "require": {
@@ -1135,17 +1184,17 @@
                 }
             ],
             "description": "Templates, css and js Bundle for Symfony2",
-            "homepage": "https://github.com/lthrt/TemplateBundle",
+            "homepage": "https://github.com/lthrt/LthrtTemplateBundle",
             "keywords": [
                 "bundle",
                 "lthrt",
                 "template"
             ],
             "support": {
-                "source": "https://github.com/lthrt/TemplateBundle/tree/master",
-                "issues": "https://github.com/lthrt/TemplateBundle/issues"
+                "source": "https://github.com/lthrt/LthrtTemplateBundle/tree/master",
+                "issues": "https://github.com/lthrt/LthrtTemplateBundle/issues"
             },
-            "time": "2016-02-29 17:08:00"
+            "time": "2016-03-29 15:55:54"
         },
         {
             "name": "lthrt/user-bundle",
@@ -1153,13 +1202,13 @@
             "target-dir": "Lthrt/UserBundle",
             "source": {
                 "type": "git",
-                "url": "https://github.com/lthrt/UserBundle.git",
-                "reference": "c4a811ad02d938a7c79d73d0ce0ab8fcaa55155e"
+                "url": "https://github.com/lthrt/LthrtUserBundle.git",
+                "reference": "347ff3b8d21be172836068292759d875b2b5f69e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/UserBundle/zipball/c4a811ad02d938a7c79d73d0ce0ab8fcaa55155e",
-                "reference": "c4a811ad02d938a7c79d73d0ce0ab8fcaa55155e",
+                "url": "https://api.github.com/repos/lthrt/LthrtUserBundle/zipball/347ff3b8d21be172836068292759d875b2b5f69e",
+                "reference": "347ff3b8d21be172836068292759d875b2b5f69e",
                 "shasum": ""
             },
             "require": {
@@ -1183,18 +1232,18 @@
                     "email": "lighthart.coder@gmail.com"
                 }
             ],
-            "description": "lthrt Usering Bundle for Symfony2",
-            "homepage": "https://github.com/lthrt/UserBundle",
+            "description": "lthrt UserBundle for Symfony2",
+            "homepage": "https://github.com/lthrt/LthrtUserBundle",
             "keywords": [
                 "bundle",
                 "lthrt",
                 "user"
             ],
             "support": {
-                "source": "https://github.com/lthrt/UserBundle/tree/master",
-                "issues": "https://github.com/lthrt/UserBundle/issues"
+                "source": "https://github.com/lthrt/LthrtUserBundle/tree/master",
+                "issues": "https://github.com/lthrt/LthrtUserBundle/issues"
             },
-            "time": "2016-01-26 16:24:12"
+            "time": "2016-03-29 15:40:48"
         },
         {
             "name": "monolog/monolog",
@@ -1422,16 +1471,16 @@
         },
         {
             "name": "sensio/framework-extra-bundle",
-            "version": "v3.0.14",
+            "version": "v3.0.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/SensioFrameworkExtraBundle.git",
-                "reference": "cccf975c565ccd835bddc30a8fea5cdfe3357bf1"
+                "reference": "507a15f56fa7699f6cc8c2c7de4080b19ce22546"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/SensioFrameworkExtraBundle/zipball/cccf975c565ccd835bddc30a8fea5cdfe3357bf1",
-                "reference": "cccf975c565ccd835bddc30a8fea5cdfe3357bf1",
+                "url": "https://api.github.com/repos/sensiolabs/SensioFrameworkExtraBundle/zipball/507a15f56fa7699f6cc8c2c7de4080b19ce22546",
+                "reference": "507a15f56fa7699f6cc8c2c7de4080b19ce22546",
                 "shasum": ""
             },
             "require": {
@@ -1480,7 +1529,7 @@
                 "annotations",
                 "controllers"
             ],
-            "time": "2016-03-01 10:50:07"
+            "time": "2016-03-25 17:08:27"
         },
         {
             "name": "sensiolabs/security-checker",
@@ -1763,6 +1812,65 @@
             "time": "2016-03-03 16:49:40"
         },
         {
+            "name": "symfony/polyfill-mbstring",
+            "version": "v1.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/polyfill-mbstring.git",
+                "reference": "1289d16209491b584839022f29257ad859b8532d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/1289d16209491b584839022f29257ad859b8532d",
+                "reference": "1289d16209491b584839022f29257ad859b8532d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "suggest": {
+                "ext-mbstring": "For best performance"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.1-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Polyfill\\Mbstring\\": ""
+                },
+                "files": [
+                    "bootstrap.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nicolas Grekas",
+                    "email": "p@tchwork.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony polyfill for the Mbstring extension",
+            "homepage": "https://symfony.com",
+            "keywords": [
+                "compatibility",
+                "mbstring",
+                "polyfill",
+                "portable",
+                "shim"
+            ],
+            "time": "2016-01-20 09:13:37"
+        },
+        {
             "name": "symfony/swiftmailer-bundle",
             "version": "v2.3.11",
             "source": {
@@ -1821,16 +1929,16 @@
         },
         {
             "name": "symfony/symfony",
-            "version": "v2.7.10",
+            "version": "v2.7.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "9a3b6bf6ebee49370aaf15abc1bdeb4b1986a67d"
+                "reference": "66c99826ce3d4392aa1fd08564946cb4277e3897"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/9a3b6bf6ebee49370aaf15abc1bdeb4b1986a67d",
-                "reference": "9a3b6bf6ebee49370aaf15abc1bdeb4b1986a67d",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/66c99826ce3d4392aa1fd08564946cb4277e3897",
+                "reference": "66c99826ce3d4392aa1fd08564946cb4277e3897",
                 "shasum": ""
             },
             "require": {
@@ -1839,6 +1947,7 @@
                 "php": ">=5.3.9",
                 "psr/log": "~1.0",
                 "symfony/polyfill-apcu": "~1.1",
+                "symfony/polyfill-mbstring": "~1.1",
                 "twig/twig": "~1.23|~2.0"
             },
             "replace": {
@@ -1905,11 +2014,7 @@
             },
             "autoload": {
                 "psr-4": {
-                    "Symfony\\Bridge\\Doctrine\\": "src/Symfony/Bridge/Doctrine/",
-                    "Symfony\\Bridge\\Monolog\\": "src/Symfony/Bridge/Monolog/",
-                    "Symfony\\Bridge\\ProxyManager\\": "src/Symfony/Bridge/ProxyManager/",
-                    "Symfony\\Bridge\\Swiftmailer\\": "src/Symfony/Bridge/Swiftmailer/",
-                    "Symfony\\Bridge\\Twig\\": "src/Symfony/Bridge/Twig/",
+                    "Symfony\\Bridge\\": "src/Symfony/Bridge/",
                     "Symfony\\Bundle\\": "src/Symfony/Bundle/",
                     "Symfony\\Component\\": "src/Symfony/Component/"
                 },
@@ -1943,7 +2048,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2016-02-28 20:37:19"
+            "time": "2016-03-25 18:14:23"
         },
         {
             "name": "twig/twig",
@@ -2014,13 +2119,13 @@
             "target-dir": "Lthrt/GeneratorBundle",
             "source": {
                 "type": "git",
-                "url": "https://github.com/lthrt/GeneratorBundle.git",
-                "reference": "1d2baed2502d6207a2d03607c07536c1a03abadd"
+                "url": "https://github.com/lthrt/LthrtGeneratorBundle.git",
+                "reference": "2ad3cb5c0c36e4a662d1f3344cfec52b06800081"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/GeneratorBundle/zipball/1d2baed2502d6207a2d03607c07536c1a03abadd",
-                "reference": "1d2baed2502d6207a2d03607c07536c1a03abadd",
+                "url": "https://api.github.com/repos/lthrt/LthrtGeneratorBundle/zipball/2ad3cb5c0c36e4a662d1f3344cfec52b06800081",
+                "reference": "2ad3cb5c0c36e4a662d1f3344cfec52b06800081",
                 "shasum": ""
             },
             "require": {
@@ -2045,7 +2150,7 @@
                 }
             ],
             "description": "lthrt Entity Generator Bundle for Symfony2",
-            "homepage": "https://github.com/lthrt/GeneratorBundle",
+            "homepage": "https://github.com/lthrt/LthrtGeneratorBundle",
             "keywords": [
                 "bundle",
                 "entity",
@@ -2053,10 +2158,61 @@
                 "lthrt"
             ],
             "support": {
-                "source": "https://github.com/lthrt/GeneratorBundle/tree/master",
-                "issues": "https://github.com/lthrt/GeneratorBundle/issues"
+                "source": "https://github.com/lthrt/LthrtGeneratorBundle/tree/master",
+                "issues": "https://github.com/lthrt/LthrtGeneratorBundle/issues"
             },
-            "time": "2016-03-10 23:24:58"
+            "time": "2016-03-29 15:55:29"
+        },
+        {
+            "name": "lthrt/schema-visualizer-bundle",
+            "version": "dev-master",
+            "target-dir": "Lthrt/SchemaVisualizerBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lthrt/LthrtSchemaVisualizerBundle.git",
+                "reference": "18f748d3e8035e32857653f58130bfdfc05707c3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lthrt/LthrtSchemaVisualizerBundle/zipball/18f748d3e8035e32857653f58130bfdfc05707c3",
+                "reference": "18f748d3e8035e32857653f58130bfdfc05707c3",
+                "shasum": ""
+            },
+            "require": {
+                "lthrt/entity-bundle": "dev-master",
+                "php": ">=5.3.2"
+            },
+            "require-dev": {
+                "symfony/framework-bundle": "~2.7"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-0": {
+                    "Lthrt\\SchemaVisualizerBundle": ""
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "lthrt",
+                    "email": "lighthart.coder@gmail.com"
+                }
+            ],
+            "description": "Schema Visualizer Bundle for Symfony2",
+            "homepage": "https://github.com/lthrt/LthrtSchemaVisualizerBundle",
+            "keywords": [
+                "bundle",
+                "lthrt",
+                "schema",
+                "visualization"
+            ],
+            "support": {
+                "source": "https://github.com/lthrt/LthrtSchemaVisualizerBundle/tree/master",
+                "issues": "https://github.com/lthrt/LthrtSchemaVisualizerBundle/issues"
+            },
+            "time": "2016-03-29 15:56:57"
         },
         {
             "name": "lthrt/tinker-bundle",
@@ -2064,13 +2220,13 @@
             "target-dir": "Lthrt/TinkerBundle",
             "source": {
                 "type": "git",
-                "url": "https://github.com/lthrt/TinkerBundle.git",
-                "reference": "63917d26b6e70b6d2c55cb608e5d12edb5f8df60"
+                "url": "https://github.com/lthrt/LthrtTinkerBundle.git",
+                "reference": "ca446fb55a528aa69a58eee4170efe2d024b5e5b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/TinkerBundle/zipball/63917d26b6e70b6d2c55cb608e5d12edb5f8df60",
-                "reference": "63917d26b6e70b6d2c55cb608e5d12edb5f8df60",
+                "url": "https://api.github.com/repos/lthrt/LthrtTinkerBundle/zipball/ca446fb55a528aa69a58eee4170efe2d024b5e5b",
+                "reference": "ca446fb55a528aa69a58eee4170efe2d024b5e5b",
                 "shasum": ""
             },
             "require": {
@@ -2095,17 +2251,17 @@
                 }
             ],
             "description": "lthrt Tinkering Bundle for Symfony2",
-            "homepage": "https://github.com/lthrt/TinkerBundle",
+            "homepage": "https://github.com/lthrt/LthrtTinkerBundle",
             "keywords": [
                 "bundle",
                 "lthrt",
                 "tinker"
             ],
             "support": {
-                "source": "https://github.com/lthrt/TinkerBundle/tree/master",
-                "issues": "https://github.com/lthrt/TinkerBundle/issues"
+                "source": "https://github.com/lthrt/LthrtTinkerBundle/tree/master",
+                "issues": "https://github.com/lthrt/LthrtTinkerBundle/issues"
             },
-            "time": "2016-02-29 21:25:37"
+            "time": "2016-03-29 16:00:01"
         },
         {
             "name": "sensio/generator-bundle",
@@ -2159,11 +2315,13 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "lthrt/entity-bundle": 20,
         "lthrt/contact-bundle": 20,
+        "lthrt/entity-bundle": 20,
+        "lthrt/grid-bundle": 20,
         "lthrt/template-bundle": 20,
         "lthrt/user-bundle": 20,
         "lthrt/generator-bundle": 20,
+        "lthrt/schema-visualizer-bundle": 20,
         "lthrt/tinker-bundle": 20
     },
     "prefer-stable": false,

@@ -1,3 +1,7 @@
+lthrt_grid:
+    resource: "@LthrtGridBundle/Resources/config/routing.yml"
+    prefix:   /
+
 lthrt_user:
     resource: "@LthrtUserBundle/Resources/config/routing.yml"
     prefix:   /

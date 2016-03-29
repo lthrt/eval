@@ -18,9 +18,9 @@ class AppKernel extends Kernel
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new Lthrt\ContactBundle\LthrtContactBundle(),
             new Lthrt\EntityBundle\LthrtEntityBundle(),
-            // new Lthrt\SchemaVisualizerBundle\LthrtSchemaVisualizerBundle(),
             new Lthrt\TemplateBundle\LthrtTemplateBundle(),
             new Lthrt\UserBundle\LthrtUserBundle(),
+            new Lthrt\GridBundle\LthrtGridBundle(),
         ];
 
         if (in_array($this->getEnvironment(), ['dev', 'test'])) {
@@ -29,6 +29,7 @@ class AppKernel extends Kernel
             $bundles[] = new Sensio\Bundle\DistributionBundle\SensioDistributionBundle();
             $bundles[] = new Sensio\Bundle\GeneratorBundle\SensioGeneratorBundle();
             $bundles[] = new Lthrt\GeneratorBundle\LthrtGeneratorBundle();
+            $bundles[] = new Lthrt\SchemaVisualizerBundle\LthrtSchemaVisualizerBundle();
             $bundles[] = new Lthrt\TinkerBundle\LthrtTinkerBundle();
         }
 
