@@ -9,9 +9,11 @@ class AppKernel extends Kernel
     {
         $bundles = [
             new AppBundle\AppBundle(),
+            new Bmatzner\FontAwesomeBundle\BmatznerFontAwesomeBundle(),
             new Doctrine\Bundle\DoctrineBundle\DoctrineBundle(),
             new Lthrt\ContactBundle\LthrtContactBundle(),
             new Lthrt\EntityBundle\LthrtEntityBundle(),
+            new Lthrt\GridBundle\LthrtGridBundle(),
             new Lthrt\TemplateBundle\LthrtTemplateBundle(),
             new Lthrt\UserBundle\LthrtUserBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),

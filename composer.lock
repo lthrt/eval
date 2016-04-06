@@ -928,12 +928,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtContactBundle.git",
-                "reference": "ec3d3453ffaa0f99ffe2d4039aec543329bf8702"
+                "reference": "53449617b164c3dca0a0934004edcffaf7970639"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/ec3d3453ffaa0f99ffe2d4039aec543329bf8702",
-                "reference": "ec3d3453ffaa0f99ffe2d4039aec543329bf8702",
+                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/53449617b164c3dca0a0934004edcffaf7970639",
+                "reference": "53449617b164c3dca0a0934004edcffaf7970639",
                 "shasum": ""
             },
             "require": {
@@ -969,7 +969,7 @@
                 "source": "https://github.com/lthrt/LthrtContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtContactBundle/issues"
             },
-            "time": "2016-03-21 22:54:39"
+            "time": "2016-03-30 01:33:41"
         },
         {
             "name": "lthrt/entity-bundle",
@@ -978,12 +978,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtEntityBundle.git",
-                "reference": "3e6fbcddf9224deed6942f3d18eec2ade1d69cba"
+                "reference": "cc60378c2c184ae0e782ef6b80dc158896969ec2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/3e6fbcddf9224deed6942f3d18eec2ade1d69cba",
-                "reference": "3e6fbcddf9224deed6942f3d18eec2ade1d69cba",
+                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/cc60378c2c184ae0e782ef6b80dc158896969ec2",
+                "reference": "cc60378c2c184ae0e782ef6b80dc158896969ec2",
                 "shasum": ""
             },
             "require": {
@@ -1018,7 +1018,7 @@
                 "source": "https://github.com/lthrt/LthrtEntityBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtEntityBundle/issues"
             },
-            "time": "2016-03-21 22:39:24"
+            "time": "2016-03-31 15:51:54"
         },
         {
             "name": "lthrt/grid-bundle",
@@ -1027,12 +1027,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtGridBundle.git",
-                "reference": "73a2dc26e6f1c0f17a5618b8a1ed7a97fd79159d"
+                "reference": "e150256d1383ab82bca537c35b44e6f98dde2166"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtGridBundle/zipball/73a2dc26e6f1c0f17a5618b8a1ed7a97fd79159d",
-                "reference": "73a2dc26e6f1c0f17a5618b8a1ed7a97fd79159d",
+                "url": "https://api.github.com/repos/lthrt/LthrtGridBundle/zipball/e150256d1383ab82bca537c35b44e6f98dde2166",
+                "reference": "e150256d1383ab82bca537c35b44e6f98dde2166",
                 "shasum": ""
             },
             "require": {
@@ -1067,7 +1067,7 @@
                 "source": "https://github.com/lthrt/LthrtGridBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtGridBundle/issues"
             },
-            "time": "2016-03-29 16:04:35"
+            "time": "2016-04-04 17:54:34"
         },
         {
             "name": "lthrt/template-bundle",
@@ -1076,12 +1076,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtTemplateBundle.git",
-                "reference": "828b452dbb4176dccbf19e40c6e07d06fddd0508"
+                "reference": "f388629b82a70a8e111c31c3aa856f4e6e962290"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/828b452dbb4176dccbf19e40c6e07d06fddd0508",
-                "reference": "828b452dbb4176dccbf19e40c6e07d06fddd0508",
+                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/f388629b82a70a8e111c31c3aa856f4e6e962290",
+                "reference": "f388629b82a70a8e111c31c3aa856f4e6e962290",
                 "shasum": ""
             },
             "require": {
@@ -1117,7 +1117,7 @@
                 "source": "https://github.com/lthrt/LthrtTemplateBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtTemplateBundle/issues"
             },
-            "time": "2016-03-29 15:55:54"
+            "time": "2016-04-05 23:16:45"
         },
         {
             "name": "lthrt/user-bundle",
@@ -1170,16 +1170,16 @@
         },
         {
             "name": "monolog/monolog",
-            "version": "1.18.1",
+            "version": "1.18.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "a5f2734e8c16f3aa21b3da09715d10e15b4d2d45"
+                "reference": "064b38c16790249488e7a8b987acf1c9d7383c09"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/a5f2734e8c16f3aa21b3da09715d10e15b4d2d45",
-                "reference": "a5f2734e8c16f3aa21b3da09715d10e15b4d2d45",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/064b38c16790249488e7a8b987acf1c9d7383c09",
+                "reference": "064b38c16790249488e7a8b987acf1c9d7383c09",
                 "shasum": ""
             },
             "require": {
@@ -1194,13 +1194,13 @@
                 "doctrine/couchdb": "~1.0@dev",
                 "graylog2/gelf-php": "~1.0",
                 "jakub-onderka/php-parallel-lint": "0.9",
+                "php-amqplib/php-amqplib": "~2.4",
                 "php-console/php-console": "^3.1.3",
                 "phpunit/phpunit": "~4.5",
                 "phpunit/phpunit-mock-objects": "2.3.0",
                 "raven/raven": "^0.13",
                 "ruflin/elastica": ">=0.90 <3.0",
-                "swiftmailer/swiftmailer": "~5.3",
-                "videlalvaro/php-amqplib": "~2.4"
+                "swiftmailer/swiftmailer": "~5.3"
             },
             "suggest": {
                 "aws/aws-sdk-php": "Allow sending log messages to AWS services like DynamoDB",
@@ -1209,11 +1209,11 @@
                 "ext-mongo": "Allow sending log messages to a MongoDB server",
                 "graylog2/gelf-php": "Allow sending log messages to a GrayLog2 server",
                 "mongodb/mongodb": "Allow sending log messages to a MongoDB server via PHP Driver",
+                "php-amqplib/php-amqplib": "Allow sending log messages to an AMQP server using php-amqplib",
                 "php-console/php-console": "Allow sending log messages to Google Chrome",
                 "raven/raven": "Allow sending log messages to a Sentry server",
                 "rollbar/rollbar": "Allow sending log messages to Rollbar",
-                "ruflin/elastica": "Allow sending log messages to an Elastic Search server",
-                "videlalvaro/php-amqplib": "Allow sending log messages to an AMQP server using php-amqplib"
+                "ruflin/elastica": "Allow sending log messages to an Elastic Search server"
             },
             "type": "library",
             "extra": {
@@ -1244,7 +1244,7 @@
                 "logging",
                 "psr-3"
             ],
-            "time": "2016-03-13 16:08:35"
+            "time": "2016-04-02 13:12:58"
         },
         {
             "name": "paragonie/random_compat",
@@ -1946,16 +1946,16 @@
         },
         {
             "name": "symfony/symfony",
-            "version": "v3.0.3",
+            "version": "v3.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "09ae53562ce8b7842206efa217ec81442975f055"
+                "reference": "4e17cb2ecb3fd637097ebeb871fc0e2cbdd5e7ff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/09ae53562ce8b7842206efa217ec81442975f055",
-                "reference": "09ae53562ce8b7842206efa217ec81442975f055",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/4e17cb2ecb3fd637097ebeb871fc0e2cbdd5e7ff",
+                "reference": "4e17cb2ecb3fd637097ebeb871fc0e2cbdd5e7ff",
                 "shasum": ""
             },
             "require": {
@@ -2038,10 +2038,7 @@
             },
             "autoload": {
                 "psr-4": {
-                    "Symfony\\Bridge\\Doctrine\\": "src/Symfony/Bridge/Doctrine/",
-                    "Symfony\\Bridge\\Monolog\\": "src/Symfony/Bridge/Monolog/",
-                    "Symfony\\Bridge\\ProxyManager\\": "src/Symfony/Bridge/ProxyManager/",
-                    "Symfony\\Bridge\\Twig\\": "src/Symfony/Bridge/Twig/",
+                    "Symfony\\Bridge\\": "src/Symfony/Bridge/",
                     "Symfony\\Bundle\\": "src/Symfony/Bundle/",
                     "Symfony\\Component\\": "src/Symfony/Component/"
                 },
@@ -2071,7 +2068,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2016-02-28 21:33:29"
+            "time": "2016-03-30 10:41:14"
         },
         {
             "name": "twig/twig",
@@ -2340,20 +2337,20 @@
         },
         {
             "name": "symfony/phpunit-bridge",
-            "version": "v3.0.3",
+            "version": "v3.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/phpunit-bridge.git",
-                "reference": "4580ae86cde5497d38fc971192cd2c37e546eb4f"
+                "reference": "b097218e4ab7724e7ec0c420e96dfd70518c2354"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/phpunit-bridge/zipball/4580ae86cde5497d38fc971192cd2c37e546eb4f",
-                "reference": "4580ae86cde5497d38fc971192cd2c37e546eb4f",
+                "url": "https://api.github.com/repos/symfony/phpunit-bridge/zipball/b097218e4ab7724e7ec0c420e96dfd70518c2354",
+                "reference": "b097218e4ab7724e7ec0c420e96dfd70518c2354",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.5.9"
+                "php": ">=5.3.3"
             },
             "suggest": {
                 "symfony/debug": "For tracking deprecated interfaces usages at runtime with DebugClassLoader"
@@ -2391,7 +2388,7 @@
             ],
             "description": "Symfony PHPUnit Bridge",
             "homepage": "https://symfony.com",
-            "time": "2016-01-21 09:38:31"
+            "time": "2016-03-23 13:46:08"
         }
     ],
     "aliases": [],
