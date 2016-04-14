@@ -928,12 +928,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtContactBundle.git",
-                "reference": "53449617b164c3dca0a0934004edcffaf7970639"
+                "reference": "77500e4c4d77e6d2742472a562036321c7a26688"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/53449617b164c3dca0a0934004edcffaf7970639",
-                "reference": "53449617b164c3dca0a0934004edcffaf7970639",
+                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/77500e4c4d77e6d2742472a562036321c7a26688",
+                "reference": "77500e4c4d77e6d2742472a562036321c7a26688",
                 "shasum": ""
             },
             "require": {
@@ -969,7 +969,7 @@
                 "source": "https://github.com/lthrt/LthrtContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtContactBundle/issues"
             },
-            "time": "2016-03-30 01:33:41"
+            "time": "2016-04-06 22:12:37"
         },
         {
             "name": "lthrt/entity-bundle",
@@ -978,12 +978,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtEntityBundle.git",
-                "reference": "cc60378c2c184ae0e782ef6b80dc158896969ec2"
+                "reference": "855557b3923d1178deda66b52dd3032ba3c462c2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/cc60378c2c184ae0e782ef6b80dc158896969ec2",
-                "reference": "cc60378c2c184ae0e782ef6b80dc158896969ec2",
+                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/855557b3923d1178deda66b52dd3032ba3c462c2",
+                "reference": "855557b3923d1178deda66b52dd3032ba3c462c2",
                 "shasum": ""
             },
             "require": {
@@ -1018,7 +1018,7 @@
                 "source": "https://github.com/lthrt/LthrtEntityBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtEntityBundle/issues"
             },
-            "time": "2016-03-31 15:51:54"
+            "time": "2016-04-14 16:04:10"
         },
         {
             "name": "lthrt/grid-bundle",
@@ -1027,12 +1027,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtGridBundle.git",
-                "reference": "e150256d1383ab82bca537c35b44e6f98dde2166"
+                "reference": "98933ba7bb219d185cce3f3f78c23675431871ba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtGridBundle/zipball/e150256d1383ab82bca537c35b44e6f98dde2166",
-                "reference": "e150256d1383ab82bca537c35b44e6f98dde2166",
+                "url": "https://api.github.com/repos/lthrt/LthrtGridBundle/zipball/98933ba7bb219d185cce3f3f78c23675431871ba",
+                "reference": "98933ba7bb219d185cce3f3f78c23675431871ba",
                 "shasum": ""
             },
             "require": {
@@ -1067,7 +1067,7 @@
                 "source": "https://github.com/lthrt/LthrtGridBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtGridBundle/issues"
             },
-            "time": "2016-04-04 17:54:34"
+            "time": "2016-04-06 22:12:23"
         },
         {
             "name": "lthrt/template-bundle",
@@ -1076,12 +1076,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtTemplateBundle.git",
-                "reference": "f26b82dd2ffbf021f871c69fbe276993081269c4"
+                "reference": "94468000cfd02f549a5df5d758673ef7bb677dc2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/f26b82dd2ffbf021f871c69fbe276993081269c4",
-                "reference": "f26b82dd2ffbf021f871c69fbe276993081269c4",
+                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/94468000cfd02f549a5df5d758673ef7bb677dc2",
+                "reference": "94468000cfd02f549a5df5d758673ef7bb677dc2",
                 "shasum": ""
             },
             "require": {
@@ -1117,7 +1117,7 @@
                 "source": "https://github.com/lthrt/LthrtTemplateBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtTemplateBundle/issues"
             },
-            "time": "2016-04-06 20:38:35"
+            "time": "2016-04-06 22:12:55"
         },
         {
             "name": "lthrt/user-bundle",
