@@ -928,12 +928,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtContactBundle.git",
-                "reference": "77500e4c4d77e6d2742472a562036321c7a26688"
+                "reference": "698a311addcf2e328093fa5d16abb8d488c9fa93"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/77500e4c4d77e6d2742472a562036321c7a26688",
-                "reference": "77500e4c4d77e6d2742472a562036321c7a26688",
+                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/698a311addcf2e328093fa5d16abb8d488c9fa93",
+                "reference": "698a311addcf2e328093fa5d16abb8d488c9fa93",
                 "shasum": ""
             },
             "require": {
@@ -969,7 +969,7 @@
                 "source": "https://github.com/lthrt/LthrtContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtContactBundle/issues"
             },
-            "time": "2016-04-06 22:12:37"
+            "time": "2016-04-23 21:22:52"
         },
         {
             "name": "lthrt/entity-bundle",
@@ -978,12 +978,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtEntityBundle.git",
-                "reference": "855557b3923d1178deda66b52dd3032ba3c462c2"
+                "reference": "9e6808741be5597b5d582967857c62ec920f369a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/855557b3923d1178deda66b52dd3032ba3c462c2",
-                "reference": "855557b3923d1178deda66b52dd3032ba3c462c2",
+                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/9e6808741be5597b5d582967857c62ec920f369a",
+                "reference": "9e6808741be5597b5d582967857c62ec920f369a",
                 "shasum": ""
             },
             "require": {
@@ -1018,7 +1018,7 @@
                 "source": "https://github.com/lthrt/LthrtEntityBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtEntityBundle/issues"
             },
-            "time": "2016-04-14 16:04:10"
+            "time": "2016-04-21 16:33:32"
         },
         {
             "name": "lthrt/grid-bundle",
@@ -1076,12 +1076,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtTemplateBundle.git",
-                "reference": "94468000cfd02f549a5df5d758673ef7bb677dc2"
+                "reference": "6e08b8e3fa1fc410cf65a83e263fe05ad02d61f8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/94468000cfd02f549a5df5d758673ef7bb677dc2",
-                "reference": "94468000cfd02f549a5df5d758673ef7bb677dc2",
+                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/6e08b8e3fa1fc410cf65a83e263fe05ad02d61f8",
+                "reference": "6e08b8e3fa1fc410cf65a83e263fe05ad02d61f8",
                 "shasum": ""
             },
             "require": {
@@ -1117,7 +1117,7 @@
                 "source": "https://github.com/lthrt/LthrtTemplateBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtTemplateBundle/issues"
             },
-            "time": "2016-04-06 22:12:55"
+            "time": "2016-04-23 21:23:05"
         },
         {
             "name": "lthrt/user-bundle",
@@ -1170,16 +1170,16 @@
         },
         {
             "name": "monolog/monolog",
-            "version": "1.18.2",
+            "version": "1.19.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Seldaek/monolog.git",
-                "reference": "064b38c16790249488e7a8b987acf1c9d7383c09"
+                "reference": "5f56ed5212dc509c8dc8caeba2715732abb32dbf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/064b38c16790249488e7a8b987acf1c9d7383c09",
-                "reference": "064b38c16790249488e7a8b987acf1c9d7383c09",
+                "url": "https://api.github.com/repos/Seldaek/monolog/zipball/5f56ed5212dc509c8dc8caeba2715732abb32dbf",
+                "reference": "5f56ed5212dc509c8dc8caeba2715732abb32dbf",
                 "shasum": ""
             },
             "require": {
@@ -1244,7 +1244,7 @@
                 "logging",
                 "psr-3"
             ],
-            "time": "2016-04-02 13:12:58"
+            "time": "2016-04-12 18:29:35"
         },
         {
             "name": "paragonie/random_compat",
@@ -1545,20 +1545,20 @@
         },
         {
             "name": "symfony/monolog-bundle",
-            "version": "v2.10.0",
+            "version": "2.11.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/monolog-bundle.git",
-                "reference": "82fd8f36e2cccbe94faf237403c48052d4d4b77e"
+                "reference": "e7caf4936c7be82bc6d68df87f1d23a0d5bf6e00"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/monolog-bundle/zipball/82fd8f36e2cccbe94faf237403c48052d4d4b77e",
-                "reference": "82fd8f36e2cccbe94faf237403c48052d4d4b77e",
+                "url": "https://api.github.com/repos/symfony/monolog-bundle/zipball/e7caf4936c7be82bc6d68df87f1d23a0d5bf6e00",
+                "reference": "e7caf4936c7be82bc6d68df87f1d23a0d5bf6e00",
                 "shasum": ""
             },
             "require": {
-                "monolog/monolog": "~1.12",
+                "monolog/monolog": "~1.18",
                 "php": ">=5.3.2",
                 "symfony/config": "~2.3|~3.0",
                 "symfony/dependency-injection": "~2.3|~3.0",
@@ -1573,7 +1573,7 @@
             "type": "symfony-bundle",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.9.x-dev"
+                    "dev-master": "2.x-dev"
                 }
             },
             "autoload": {
@@ -1601,7 +1601,7 @@
                 "log",
                 "logging"
             ],
-            "time": "2016-03-13 15:55:56"
+            "time": "2016-04-13 16:21:01"
         },
         {
             "name": "symfony/polyfill-intl-icu",
@@ -2140,12 +2140,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtGeneratorBundle.git",
-                "reference": "2ad3cb5c0c36e4a662d1f3344cfec52b06800081"
+                "reference": "4333bde9b9a6779fab1a1f6bb3e72909e9cbaaa3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtGeneratorBundle/zipball/2ad3cb5c0c36e4a662d1f3344cfec52b06800081",
-                "reference": "2ad3cb5c0c36e4a662d1f3344cfec52b06800081",
+                "url": "https://api.github.com/repos/lthrt/LthrtGeneratorBundle/zipball/4333bde9b9a6779fab1a1f6bb3e72909e9cbaaa3",
+                "reference": "4333bde9b9a6779fab1a1f6bb3e72909e9cbaaa3",
                 "shasum": ""
             },
             "require": {
@@ -2181,7 +2181,7 @@
                 "source": "https://github.com/lthrt/LthrtGeneratorBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtGeneratorBundle/issues"
             },
-            "time": "2016-03-29 15:55:29"
+            "time": "2016-04-21 18:28:48"
         },
         {
             "name": "lthrt/schema-visualizer-bundle",
@@ -2190,12 +2190,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtSchemaVisualizerBundle.git",
-                "reference": "18f748d3e8035e32857653f58130bfdfc05707c3"
+                "reference": "166929650140a49f37b55c02783dea70e6ad4b54"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtSchemaVisualizerBundle/zipball/18f748d3e8035e32857653f58130bfdfc05707c3",
-                "reference": "18f748d3e8035e32857653f58130bfdfc05707c3",
+                "url": "https://api.github.com/repos/lthrt/LthrtSchemaVisualizerBundle/zipball/166929650140a49f37b55c02783dea70e6ad4b54",
+                "reference": "166929650140a49f37b55c02783dea70e6ad4b54",
                 "shasum": ""
             },
             "require": {
@@ -2232,7 +2232,7 @@
                 "source": "https://github.com/lthrt/LthrtSchemaVisualizerBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtSchemaVisualizerBundle/issues"
             },
-            "time": "2016-03-29 15:56:57"
+            "time": "2016-04-23 20:16:58"
         },
         {
             "name": "lthrt/tinker-bundle",
