@@ -9,21 +9,21 @@
     "packages": [
         {
             "name": "bmatzner/fontawesome-bundle",
-            "version": "4.5.0",
+            "version": "4.6.1",
             "target-dir": "Bmatzner/FontAwesomeBundle",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bmatzner/BmatznerFontAwesomeBundle.git",
-                "reference": "93a080975bba1e62ec7e0b5d5172b2d71e95848f"
+                "reference": "e52f9f684017b410041850e16dc49a197ef4edab"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bmatzner/BmatznerFontAwesomeBundle/zipball/93a080975bba1e62ec7e0b5d5172b2d71e95848f",
-                "reference": "93a080975bba1e62ec7e0b5d5172b2d71e95848f",
+                "url": "https://api.github.com/repos/bmatzner/BmatznerFontAwesomeBundle/zipball/e52f9f684017b410041850e16dc49a197ef4edab",
+                "reference": "e52f9f684017b410041850e16dc49a197ef4edab",
                 "shasum": ""
             },
             "require": {
-                "symfony/framework-bundle": ">=2.1"
+                "symfony/framework-bundle": ">=2.1|~3.0"
             },
             "type": "symfony-bundle",
             "autoload": {
@@ -52,7 +52,7 @@
                 "typography",
                 "webfonts"
             ],
-            "time": "2016-03-26 19:47:17"
+            "time": "2016-05-02 14:02:07"
         },
         {
             "name": "doctrine/annotations",
@@ -928,12 +928,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtContactBundle.git",
-                "reference": "99999c2b45a0edd873ef777b4eb102f95b0b8169"
+                "reference": "134759741dff82d32c0e048d11a988dacc6ed6bd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/99999c2b45a0edd873ef777b4eb102f95b0b8169",
-                "reference": "99999c2b45a0edd873ef777b4eb102f95b0b8169",
+                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/134759741dff82d32c0e048d11a988dacc6ed6bd",
+                "reference": "134759741dff82d32c0e048d11a988dacc6ed6bd",
                 "shasum": ""
             },
             "require": {
@@ -969,7 +969,7 @@
                 "source": "https://github.com/lthrt/LthrtContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtContactBundle/issues"
             },
-            "time": "2016-05-02 15:44:58"
+            "time": "2016-05-05 00:04:11"
         },
         {
             "name": "lthrt/entity-bundle",
@@ -978,12 +978,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtEntityBundle.git",
-                "reference": "9e6808741be5597b5d582967857c62ec920f369a"
+                "reference": "fe6435de5c5df4d1af53747b567f43aab0bd296c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/9e6808741be5597b5d582967857c62ec920f369a",
-                "reference": "9e6808741be5597b5d582967857c62ec920f369a",
+                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/fe6435de5c5df4d1af53747b567f43aab0bd296c",
+                "reference": "fe6435de5c5df4d1af53747b567f43aab0bd296c",
                 "shasum": ""
             },
             "require": {
@@ -1018,7 +1018,7 @@
                 "source": "https://github.com/lthrt/LthrtEntityBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtEntityBundle/issues"
             },
-            "time": "2016-04-21 16:33:32"
+            "time": "2016-05-04 23:49:04"
         },
         {
             "name": "lthrt/grid-bundle",
@@ -1946,16 +1946,16 @@
         },
         {
             "name": "symfony/symfony",
-            "version": "v3.0.4",
+            "version": "v3.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "4e17cb2ecb3fd637097ebeb871fc0e2cbdd5e7ff"
+                "reference": "10c83b58fbb42be516377de54962a758695ad964"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/4e17cb2ecb3fd637097ebeb871fc0e2cbdd5e7ff",
-                "reference": "4e17cb2ecb3fd637097ebeb871fc0e2cbdd5e7ff",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/10c83b58fbb42be516377de54962a758695ad964",
+                "reference": "10c83b58fbb42be516377de54962a758695ad964",
                 "shasum": ""
             },
             "require": {
@@ -2038,7 +2038,11 @@
             },
             "autoload": {
                 "psr-4": {
-                    "Symfony\\Bridge\\": "src/Symfony/Bridge/",
+                    "Symfony\\Bridge\\Doctrine\\": "src/Symfony/Bridge/Doctrine/",
+                    "Symfony\\Bridge\\Monolog\\": "src/Symfony/Bridge/Monolog/",
+                    "Symfony\\Bridge\\ProxyManager\\": "src/Symfony/Bridge/ProxyManager/",
+                    "Symfony\\Bridge\\Swiftmailer\\": "src/Symfony/Bridge/Swiftmailer/",
+                    "Symfony\\Bridge\\Twig\\": "src/Symfony/Bridge/Twig/",
                     "Symfony\\Bundle\\": "src/Symfony/Bundle/",
                     "Symfony\\Component\\": "src/Symfony/Component/"
                 },
@@ -2068,7 +2072,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2016-03-30 10:41:14"
+            "time": "2016-05-03 05:58:56"
         },
         {
             "name": "twig/twig",
@@ -2190,12 +2194,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtSchemaVisualizerBundle.git",
-                "reference": "26bcefe6a046023553f52a1136525d9198d417ba"
+                "reference": "2df4011cad88c610d557f0bcb7dabaf00c4acf59"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtSchemaVisualizerBundle/zipball/26bcefe6a046023553f52a1136525d9198d417ba",
-                "reference": "26bcefe6a046023553f52a1136525d9198d417ba",
+                "url": "https://api.github.com/repos/lthrt/LthrtSchemaVisualizerBundle/zipball/2df4011cad88c610d557f0bcb7dabaf00c4acf59",
+                "reference": "2df4011cad88c610d557f0bcb7dabaf00c4acf59",
                 "shasum": ""
             },
             "require": {
@@ -2232,7 +2236,7 @@
                 "source": "https://github.com/lthrt/LthrtSchemaVisualizerBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtSchemaVisualizerBundle/issues"
             },
-            "time": "2016-04-26 17:27:10"
+            "time": "2016-05-02 17:12:26"
         },
         {
             "name": "lthrt/tinker-bundle",
@@ -2337,16 +2341,16 @@
         },
         {
             "name": "symfony/phpunit-bridge",
-            "version": "v3.0.4",
+            "version": "v3.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/phpunit-bridge.git",
-                "reference": "b097218e4ab7724e7ec0c420e96dfd70518c2354"
+                "reference": "3231629ff97abccd60f93ff900accfb5b39c8200"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/phpunit-bridge/zipball/b097218e4ab7724e7ec0c420e96dfd70518c2354",
-                "reference": "b097218e4ab7724e7ec0c420e96dfd70518c2354",
+                "url": "https://api.github.com/repos/symfony/phpunit-bridge/zipball/3231629ff97abccd60f93ff900accfb5b39c8200",
+                "reference": "3231629ff97abccd60f93ff900accfb5b39c8200",
                 "shasum": ""
             },
             "require": {
@@ -2388,7 +2392,7 @@
             ],
             "description": "Symfony PHPUnit Bridge",
             "homepage": "https://symfony.com",
-            "time": "2016-03-23 13:46:08"
+            "time": "2016-04-12 18:09:53"
         }
     ],
     "aliases": [],
