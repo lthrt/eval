@@ -929,12 +929,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtContactBundle.git",
-                "reference": "9c33bf29088f9c41e1ddd6a14271e4917a212d3c"
+                "reference": "61c05be0c7d786bd3f91470136f350dda653207f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/9c33bf29088f9c41e1ddd6a14271e4917a212d3c",
-                "reference": "9c33bf29088f9c41e1ddd6a14271e4917a212d3c",
+                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/61c05be0c7d786bd3f91470136f350dda653207f",
+                "reference": "61c05be0c7d786bd3f91470136f350dda653207f",
                 "shasum": ""
             },
             "require": {
@@ -970,7 +970,7 @@
                 "source": "https://github.com/lthrt/LthrtContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtContactBundle/issues"
             },
-            "time": "2016-06-03 17:47:43"
+            "time": "2016-06-06 20:41:29"
         },
         {
             "name": "lthrt/entity-bundle",
@@ -979,12 +979,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtEntityBundle.git",
-                "reference": "c6bd855543878d91b759eaaa12d743be376912b7"
+                "reference": "ac8dce8b6c7fea261b3b49cfa4b0fad97802ca6f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/c6bd855543878d91b759eaaa12d743be376912b7",
-                "reference": "c6bd855543878d91b759eaaa12d743be376912b7",
+                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/ac8dce8b6c7fea261b3b49cfa4b0fad97802ca6f",
+                "reference": "ac8dce8b6c7fea261b3b49cfa4b0fad97802ca6f",
                 "shasum": ""
             },
             "require": {
@@ -1019,7 +1019,7 @@
                 "source": "https://github.com/lthrt/LthrtEntityBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtEntityBundle/issues"
             },
-            "time": "2016-06-03 17:42:58"
+            "time": "2016-06-06 20:42:06"
         },
         {
             "name": "lthrt/grid-bundle",
@@ -1077,12 +1077,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtTemplateBundle.git",
-                "reference": "6d43f1e2c0ebcb369b2623ddbf4c33d59f50ffe5"
+                "reference": "0c82ddae9f25f9aa744c2d9b6bfa31bbd82b2955"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/6d43f1e2c0ebcb369b2623ddbf4c33d59f50ffe5",
-                "reference": "6d43f1e2c0ebcb369b2623ddbf4c33d59f50ffe5",
+                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/0c82ddae9f25f9aa744c2d9b6bfa31bbd82b2955",
+                "reference": "0c82ddae9f25f9aa744c2d9b6bfa31bbd82b2955",
                 "shasum": ""
             },
             "require": {
@@ -1118,7 +1118,7 @@
                 "source": "https://github.com/lthrt/LthrtTemplateBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtTemplateBundle/issues"
             },
-            "time": "2016-05-10 17:15:19"
+            "time": "2016-06-15 17:31:32"
         },
         {
             "name": "lthrt/user-bundle",
@@ -1947,16 +1947,16 @@
         },
         {
             "name": "symfony/symfony",
-            "version": "v3.0.6",
+            "version": "v3.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "a821ed51b87f5ceda834140e5f0c06e9547a86d4"
+                "reference": "272ab3327c3d311aaa9f634730162ea00e9d9e93"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/a821ed51b87f5ceda834140e5f0c06e9547a86d4",
-                "reference": "a821ed51b87f5ceda834140e5f0c06e9547a86d4",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/272ab3327c3d311aaa9f634730162ea00e9d9e93",
+                "reference": "272ab3327c3d311aaa9f634730162ea00e9d9e93",
                 "shasum": ""
             },
             "require": {
@@ -2073,7 +2073,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2016-05-09 22:13:31"
+            "time": "2016-06-06 16:52:46"
         },
         {
             "name": "twig/twig",
@@ -2342,7 +2342,7 @@
         },
         {
             "name": "symfony/phpunit-bridge",
-            "version": "v3.1.0",
+            "version": "v3.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/phpunit-bridge.git",
