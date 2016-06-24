@@ -929,12 +929,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtContactBundle.git",
-                "reference": "61c05be0c7d786bd3f91470136f350dda653207f"
+                "reference": "e00309e53c6708bd99588535bb5e6c6868b29503"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/61c05be0c7d786bd3f91470136f350dda653207f",
-                "reference": "61c05be0c7d786bd3f91470136f350dda653207f",
+                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/e00309e53c6708bd99588535bb5e6c6868b29503",
+                "reference": "e00309e53c6708bd99588535bb5e6c6868b29503",
                 "shasum": ""
             },
             "require": {
@@ -970,7 +970,7 @@
                 "source": "https://github.com/lthrt/LthrtContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtContactBundle/issues"
             },
-            "time": "2016-06-06 20:41:29"
+            "time": "2016-06-24 22:45:42"
         },
         {
             "name": "lthrt/entity-bundle",
@@ -979,12 +979,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtEntityBundle.git",
-                "reference": "ac8dce8b6c7fea261b3b49cfa4b0fad97802ca6f"
+                "reference": "17d244abe36fd7e5104b19f378fa570ac11d6d49"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/ac8dce8b6c7fea261b3b49cfa4b0fad97802ca6f",
-                "reference": "ac8dce8b6c7fea261b3b49cfa4b0fad97802ca6f",
+                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/17d244abe36fd7e5104b19f378fa570ac11d6d49",
+                "reference": "17d244abe36fd7e5104b19f378fa570ac11d6d49",
                 "shasum": ""
             },
             "require": {
@@ -1019,7 +1019,7 @@
                 "source": "https://github.com/lthrt/LthrtEntityBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtEntityBundle/issues"
             },
-            "time": "2016-06-06 20:42:06"
+            "time": "2016-06-16 17:06:26"
         },
         {
             "name": "lthrt/grid-bundle",
@@ -1077,12 +1077,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtTemplateBundle.git",
-                "reference": "0c82ddae9f25f9aa744c2d9b6bfa31bbd82b2955"
+                "reference": "ab6270a65d860a4df0f14b5b7e2b7a70a96eb0c3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/0c82ddae9f25f9aa744c2d9b6bfa31bbd82b2955",
-                "reference": "0c82ddae9f25f9aa744c2d9b6bfa31bbd82b2955",
+                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/ab6270a65d860a4df0f14b5b7e2b7a70a96eb0c3",
+                "reference": "ab6270a65d860a4df0f14b5b7e2b7a70a96eb0c3",
                 "shasum": ""
             },
             "require": {
@@ -1118,7 +1118,7 @@
                 "source": "https://github.com/lthrt/LthrtTemplateBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtTemplateBundle/issues"
             },
-            "time": "2016-06-15 17:31:32"
+            "time": "2016-06-24 22:36:37"
         },
         {
             "name": "lthrt/user-bundle",
@@ -1335,16 +1335,16 @@
         },
         {
             "name": "sensio/distribution-bundle",
-            "version": "v5.0.6",
+            "version": "v5.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/SensioDistributionBundle.git",
-                "reference": "ffe306d09c1f2bad721237f63b2169d1b78253d0"
+                "reference": "a9c4723cbdbc6cf7fbfdfde3c639cb1943f0293a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/SensioDistributionBundle/zipball/ffe306d09c1f2bad721237f63b2169d1b78253d0",
-                "reference": "ffe306d09c1f2bad721237f63b2169d1b78253d0",
+                "url": "https://api.github.com/repos/sensiolabs/SensioDistributionBundle/zipball/a9c4723cbdbc6cf7fbfdfde3c639cb1943f0293a",
+                "reference": "a9c4723cbdbc6cf7fbfdfde3c639cb1943f0293a",
                 "shasum": ""
             },
             "require": {
@@ -1383,7 +1383,7 @@
                 "configuration",
                 "distribution"
             ],
-            "time": "2016-04-25 20:50:31"
+            "time": "2016-06-23 16:11:33"
         },
         {
             "name": "sensio/framework-extra-bundle",
@@ -2290,16 +2290,16 @@
         },
         {
             "name": "sensio/generator-bundle",
-            "version": "v3.0.6",
+            "version": "v3.0.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/SensioGeneratorBundle.git",
-                "reference": "ac91535054d025937d897d78ebb5fc2da5e955a4"
+                "reference": "d1be460925376703a470a3ac6ec034eb7eab3892"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/SensioGeneratorBundle/zipball/ac91535054d025937d897d78ebb5fc2da5e955a4",
-                "reference": "ac91535054d025937d897d78ebb5fc2da5e955a4",
+                "url": "https://api.github.com/repos/sensiolabs/SensioGeneratorBundle/zipball/d1be460925376703a470a3ac6ec034eb7eab3892",
+                "reference": "d1be460925376703a470a3ac6ec034eb7eab3892",
                 "shasum": ""
             },
             "require": {
@@ -2338,7 +2338,7 @@
                 }
             ],
             "description": "This bundle generates code for you",
-            "time": "2016-02-26 04:36:01"
+            "time": "2016-06-20 05:58:05"
         },
         {
             "name": "symfony/phpunit-bridge",
