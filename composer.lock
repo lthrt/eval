@@ -929,12 +929,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtContactBundle.git",
-                "reference": "97b79c470ce45755a972432fc64aeae11c9dad8c"
+                "reference": "1e0f5a9db330558c5ca43f513825c6cee50b7c51"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/97b79c470ce45755a972432fc64aeae11c9dad8c",
-                "reference": "97b79c470ce45755a972432fc64aeae11c9dad8c",
+                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/1e0f5a9db330558c5ca43f513825c6cee50b7c51",
+                "reference": "1e0f5a9db330558c5ca43f513825c6cee50b7c51",
                 "shasum": ""
             },
             "require": {
@@ -970,7 +970,7 @@
                 "source": "https://github.com/lthrt/LthrtContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtContactBundle/issues"
             },
-            "time": "2016-07-01 00:27:52"
+            "time": "2016-07-01 18:54:20"
         },
         {
             "name": "lthrt/entity-bundle",
@@ -1077,12 +1077,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtTemplateBundle.git",
-                "reference": "3591eeba732fee185f53b046e368bb779e93bb71"
+                "reference": "0c2f83ee5611fd1a9f2b3e69339d7e7288904c6c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/3591eeba732fee185f53b046e368bb779e93bb71",
-                "reference": "3591eeba732fee185f53b046e368bb779e93bb71",
+                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/0c2f83ee5611fd1a9f2b3e69339d7e7288904c6c",
+                "reference": "0c2f83ee5611fd1a9f2b3e69339d7e7288904c6c",
                 "shasum": ""
             },
             "require": {
@@ -1118,7 +1118,7 @@
                 "source": "https://github.com/lthrt/LthrtTemplateBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtTemplateBundle/issues"
             },
-            "time": "2016-07-01 00:27:38"
+            "time": "2016-07-01 18:54:45"
         },
         {
             "name": "lthrt/user-bundle",
