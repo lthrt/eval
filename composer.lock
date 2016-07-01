@@ -929,12 +929,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtContactBundle.git",
-                "reference": "1e0f5a9db330558c5ca43f513825c6cee50b7c51"
+                "reference": "ab508b893dc1d8c14824afea974ef1d99fc5d6f8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/1e0f5a9db330558c5ca43f513825c6cee50b7c51",
-                "reference": "1e0f5a9db330558c5ca43f513825c6cee50b7c51",
+                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/ab508b893dc1d8c14824afea974ef1d99fc5d6f8",
+                "reference": "ab508b893dc1d8c14824afea974ef1d99fc5d6f8",
                 "shasum": ""
             },
             "require": {
@@ -970,7 +970,7 @@
                 "source": "https://github.com/lthrt/LthrtContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtContactBundle/issues"
             },
-            "time": "2016-07-01 18:54:20"
+            "time": "2016-07-01 22:49:29"
         },
         {
             "name": "lthrt/entity-bundle",
