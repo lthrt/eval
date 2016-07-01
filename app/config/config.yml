@@ -36,6 +36,10 @@ framework:
 twig:
     debug:            "%kernel.debug%"
     strict_variables: "%kernel.debug%"
+    form_themes:
+        - "bootstrap_3_horizontal_layout.html.twig"
+        - "LthrtTemplateBundle:Form:choice_widget_expanded.html.twig"
+        - "LthrtTemplateBundle:Form:submit_widget.html.twig"
 
 # Doctrine Configuration
 doctrine:
