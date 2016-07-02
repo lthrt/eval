@@ -1077,12 +1077,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtTemplateBundle.git",
-                "reference": "0c2f83ee5611fd1a9f2b3e69339d7e7288904c6c"
+                "reference": "bc06253c0d7d298bc3b26818004d166702837be9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/0c2f83ee5611fd1a9f2b3e69339d7e7288904c6c",
-                "reference": "0c2f83ee5611fd1a9f2b3e69339d7e7288904c6c",
+                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/bc06253c0d7d298bc3b26818004d166702837be9",
+                "reference": "bc06253c0d7d298bc3b26818004d166702837be9",
                 "shasum": ""
             },
             "require": {
@@ -1118,7 +1118,7 @@
                 "source": "https://github.com/lthrt/LthrtTemplateBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtTemplateBundle/issues"
             },
-            "time": "2016-07-01 18:54:45"
+            "time": "2016-07-02 00:15:08"
         },
         {
             "name": "lthrt/user-bundle",
