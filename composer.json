@@ -16,40 +16,34 @@
       "Tests\\": "tests/"
     }
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/lthrt/LthrtContactBundle.git"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/lthrt/LthrtEntityBundle.git"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/lthrt/LthrtGeneratorBundle.git"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/lthrt/LthrtGridBundle.git"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/lthrt/LthrtSchemaVisualizerBundle.git"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/lthrt/LthrtTemplateBundle.git"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/lthrt/LthrtTinkerBundle.git"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/lthrt/LthrtUserBundle.git"
-    }
-  ],
+  "repositories": [{
+    "type": "vcs",
+    "url": "https://github.com/lthrt/LthrtContactBundle.git"
+  }, {
+    "type": "vcs",
+    "url": "https://github.com/lthrt/LthrtCCSBundle.git"
+  }, {
+    "type": "vcs",
+    "url": "https://github.com/lthrt/LthrtEntityBundle.git"
+  }, {
+    "type": "vcs",
+    "url": "https://github.com/lthrt/LthrtGeneratorBundle.git"
+  }, {
+    "type": "vcs",
+    "url": "https://github.com/lthrt/LthrtGridBundle.git"
+  }, {
+    "type": "vcs",
+    "url": "https://github.com/lthrt/LthrtSchemaVisualizerBundle.git"
+  }, {
+    "type": "vcs",
+    "url": "https://github.com/lthrt/LthrtTemplateBundle.git"
+  }, {
+    "type": "vcs",
+    "url": "https://github.com/lthrt/LthrtTinkerBundle.git"
+  }, {
+    "type": "vcs",
+    "url": "https://github.com/lthrt/LthrtUserBundle.git"
+  }],
   "require": {
     "doctrine/doctrine-bundle": "^1.6",
     "doctrine/doctrine-cache-bundle": "^1.2",
@@ -65,7 +59,8 @@
     "sensio/framework-extra-bundle": "^3.0.2",
     "symfony/monolog-bundle": "^2.8",
     "symfony/swiftmailer-bundle": "^2.3",
-    "symfony/symfony": "3.0.*"
+    "symfony/symfony": "3.0.*",
+    "lthrt/ccs-bundle": "dev-master"
   },
   "require-dev": {
     "lthrt/generator-bundle": "dev-master",
