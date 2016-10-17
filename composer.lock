@@ -1033,12 +1033,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtEntityBundle.git",
-                "reference": "ee4bd5b0f4d7dfc0b041208cc9608a82a8304e75"
+                "reference": "70cc861bccabb736852cce26a53dfacdb7a51bbd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/ee4bd5b0f4d7dfc0b041208cc9608a82a8304e75",
-                "reference": "ee4bd5b0f4d7dfc0b041208cc9608a82a8304e75",
+                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/70cc861bccabb736852cce26a53dfacdb7a51bbd",
+                "reference": "70cc861bccabb736852cce26a53dfacdb7a51bbd",
                 "shasum": ""
             },
             "require": {
@@ -1073,7 +1073,7 @@
                 "source": "https://github.com/lthrt/LthrtEntityBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtEntityBundle/issues"
             },
-            "time": "2016-10-14 23:31:44"
+            "time": "2016-10-17 20:46:58"
         },
         {
             "name": "lthrt/grid-bundle",
@@ -1303,16 +1303,16 @@
         },
         {
             "name": "paragonie/random_compat",
-            "version": "v2.0.2",
+            "version": "v2.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/random_compat.git",
-                "reference": "088c04e2f261c33bed6ca5245491cfca69195ccf"
+                "reference": "c0125896dbb151380ab47e96c621741e79623beb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/088c04e2f261c33bed6ca5245491cfca69195ccf",
-                "reference": "088c04e2f261c33bed6ca5245491cfca69195ccf",
+                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/c0125896dbb151380ab47e96c621741e79623beb",
+                "reference": "c0125896dbb151380ab47e96c621741e79623beb",
                 "shasum": ""
             },
             "require": {
@@ -1347,7 +1347,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2016-04-03 06:00:07"
+            "time": "2016-10-17 15:23:22"
         },
         {
             "name": "psr/log",
