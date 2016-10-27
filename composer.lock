@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c9680fd0f2d46dbc933df4c73a0062f0",
+    "hash": "d781d32303072e0cf7f862117bf89cf6",
     "content-hash": "053b75ae0a4c6c53ebfa002f2c96e84f",
     "packages": [
         {
@@ -930,12 +930,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtCCSBundle.git",
-                "reference": "981c33487c3655b11c0008344444000937a545d4"
+                "reference": "3ee0715b9e8fc91778995d583df6679ce017ae6b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtCCSBundle/zipball/981c33487c3655b11c0008344444000937a545d4",
-                "reference": "981c33487c3655b11c0008344444000937a545d4",
+                "url": "https://api.github.com/repos/lthrt/LthrtCCSBundle/zipball/3ee0715b9e8fc91778995d583df6679ce017ae6b",
+                "reference": "3ee0715b9e8fc91778995d583df6679ce017ae6b",
                 "shasum": ""
             },
             "require": {
@@ -960,7 +960,7 @@
                     "email": "lighthart.coder@gmail.com"
                 }
             ],
-            "description": "JSON resolving City, county, state matches",
+            "description": "JSON resolving City, County, State, Zip matches",
             "homepage": "https://github.com/lthrt/LthrtCCSBundle",
             "keywords": [
                 "bundle",
@@ -974,7 +974,7 @@
                 "source": "https://github.com/lthrt/LthrtCCSBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtCCSBundle/issues"
             },
-            "time": "2016-10-14 20:15:54"
+            "time": "2016-10-27 16:48:33"
         },
         {
             "name": "lthrt/contact-bundle",
@@ -983,12 +983,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtContactBundle.git",
-                "reference": "8d593c993a658fd417051660cfdd42352236891f"
+                "reference": "c793ce69584e143f1a6c31a94b773ef17cec9d93"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/8d593c993a658fd417051660cfdd42352236891f",
-                "reference": "8d593c993a658fd417051660cfdd42352236891f",
+                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/c793ce69584e143f1a6c31a94b773ef17cec9d93",
+                "reference": "c793ce69584e143f1a6c31a94b773ef17cec9d93",
                 "shasum": ""
             },
             "require": {
@@ -1024,7 +1024,7 @@
                 "source": "https://github.com/lthrt/LthrtContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtContactBundle/issues"
             },
-            "time": "2016-10-14 19:58:41"
+            "time": "2016-10-27 17:42:32"
         },
         {
             "name": "lthrt/entity-bundle",
@@ -1033,12 +1033,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtEntityBundle.git",
-                "reference": "70cc861bccabb736852cce26a53dfacdb7a51bbd"
+                "reference": "76265c3c89609fef41ae1cfd90aa1da7af8debf3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/70cc861bccabb736852cce26a53dfacdb7a51bbd",
-                "reference": "70cc861bccabb736852cce26a53dfacdb7a51bbd",
+                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/76265c3c89609fef41ae1cfd90aa1da7af8debf3",
+                "reference": "76265c3c89609fef41ae1cfd90aa1da7af8debf3",
                 "shasum": ""
             },
             "require": {
@@ -1073,7 +1073,7 @@
                 "source": "https://github.com/lthrt/LthrtEntityBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtEntityBundle/issues"
             },
-            "time": "2016-10-17 20:46:58"
+            "time": "2016-10-27 17:42:54"
         },
         {
             "name": "lthrt/grid-bundle",
@@ -2140,16 +2140,16 @@
         },
         {
             "name": "twig/twig",
-            "version": "v1.26.1",
+            "version": "v1.27.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "a09d8ee17ac1cfea29ed60c83960ad685c6a898d"
+                "reference": "3c6c0033fd3b5679c6e1cb60f4f9766c2b424d97"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/a09d8ee17ac1cfea29ed60c83960ad685c6a898d",
-                "reference": "a09d8ee17ac1cfea29ed60c83960ad685c6a898d",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/3c6c0033fd3b5679c6e1cb60f4f9766c2b424d97",
+                "reference": "3c6c0033fd3b5679c6e1cb60f4f9766c2b424d97",
                 "shasum": ""
             },
             "require": {
@@ -2162,7 +2162,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.26-dev"
+                    "dev-master": "1.27-dev"
                 }
             },
             "autoload": {
@@ -2197,7 +2197,7 @@
             "keywords": [
                 "templating"
             ],
-            "time": "2016-10-05 18:57:41"
+            "time": "2016-10-25 19:17:17"
         }
     ],
     "packages-dev": [
@@ -2405,7 +2405,7 @@
         },
         {
             "name": "symfony/phpunit-bridge",
-            "version": "v3.1.5",
+            "version": "v3.1.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/phpunit-bridge.git",
