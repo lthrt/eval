@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "20c112ec73cba0a505bc55cb0857096f",
+    "content-hash": "e40cc5b7ec971115c5b0785e52656bf2",
     "packages": [
         {
             "name": "bmatzner/fontawesome-bundle",
@@ -930,12 +930,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtCCSBundle.git",
-                "reference": "85312a4f0e1115e1daeedc681646fbfb6f0b0768"
+                "reference": "2d2973149461c90d4ae49f7185467a786adf2936"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtCCSBundle/zipball/85312a4f0e1115e1daeedc681646fbfb6f0b0768",
-                "reference": "85312a4f0e1115e1daeedc681646fbfb6f0b0768",
+                "url": "https://api.github.com/repos/lthrt/LthrtCCSBundle/zipball/2d2973149461c90d4ae49f7185467a786adf2936",
+                "reference": "2d2973149461c90d4ae49f7185467a786adf2936",
                 "shasum": ""
             },
             "require": {
@@ -974,7 +974,7 @@
                 "source": "https://github.com/lthrt/LthrtCCSBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtCCSBundle/issues"
             },
-            "time": "2016-12-22 05:30:18"
+            "time": "2017-02-01 20:06:53"
         },
         {
             "name": "lthrt/contact-bundle",
@@ -983,12 +983,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtContactBundle.git",
-                "reference": "486192303585849e69365d984c47653635ab34c2"
+                "reference": "44ab17f8f75a1924dd34c8a602a08ae884ab0bb1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/486192303585849e69365d984c47653635ab34c2",
-                "reference": "486192303585849e69365d984c47653635ab34c2",
+                "url": "https://api.github.com/repos/lthrt/LthrtContactBundle/zipball/44ab17f8f75a1924dd34c8a602a08ae884ab0bb1",
+                "reference": "44ab17f8f75a1924dd34c8a602a08ae884ab0bb1",
                 "shasum": ""
             },
             "require": {
@@ -1024,7 +1024,7 @@
                 "source": "https://github.com/lthrt/LthrtContactBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtContactBundle/issues"
             },
-            "time": "2016-11-10 18:33:36"
+            "time": "2017-02-01 21:32:04"
         },
         {
             "name": "lthrt/entity-bundle",
@@ -1033,12 +1033,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtEntityBundle.git",
-                "reference": "8b74977b86d256b298ee026ebde4bf19cc50d0ff"
+                "reference": "289e9f57c7d49771a26289d9e4c17df181cf4061"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/8b74977b86d256b298ee026ebde4bf19cc50d0ff",
-                "reference": "8b74977b86d256b298ee026ebde4bf19cc50d0ff",
+                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/289e9f57c7d49771a26289d9e4c17df181cf4061",
+                "reference": "289e9f57c7d49771a26289d9e4c17df181cf4061",
                 "shasum": ""
             },
             "require": {
@@ -1075,7 +1075,7 @@
                 "source": "https://github.com/lthrt/LthrtEntityBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtEntityBundle/issues"
             },
-            "time": "2017-01-27 21:47:07"
+            "time": "2017-02-01 23:07:16"
         },
         {
             "name": "lthrt/grid-bundle",
@@ -1498,16 +1498,16 @@
         },
         {
             "name": "sensio/framework-extra-bundle",
-            "version": "v3.0.19",
+            "version": "v3.0.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/SensioFrameworkExtraBundle.git",
-                "reference": "d57c2f297d17ee82baf8cae0b16dae34a9378784"
+                "reference": "0d8fa024edb41f9228daf78f96552f9d9079854e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/SensioFrameworkExtraBundle/zipball/d57c2f297d17ee82baf8cae0b16dae34a9378784",
-                "reference": "d57c2f297d17ee82baf8cae0b16dae34a9378784",
+                "url": "https://api.github.com/repos/sensiolabs/SensioFrameworkExtraBundle/zipball/0d8fa024edb41f9228daf78f96552f9d9079854e",
+                "reference": "0d8fa024edb41f9228daf78f96552f9d9079854e",
                 "shasum": ""
             },
             "require": {
@@ -1562,7 +1562,7 @@
                 "annotations",
                 "controllers"
             ],
-            "time": "2017-01-10T19:42:56+00:00"
+            "time": "2017-02-01T15:59:54+00:00"
         },
         {
             "name": "sensiolabs/security-checker",
@@ -2067,16 +2067,16 @@
         },
         {
             "name": "symfony/symfony",
-            "version": "v3.1.9",
+            "version": "v3.1.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/symfony.git",
-                "reference": "8d80e330acaad0780028ecb93fa8e902eb1e9abb"
+                "reference": "96e7dede3ddc9e3b3392f5cc93e26eca77545a89"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/symfony/zipball/8d80e330acaad0780028ecb93fa8e902eb1e9abb",
-                "reference": "8d80e330acaad0780028ecb93fa8e902eb1e9abb",
+                "url": "https://api.github.com/repos/symfony/symfony/zipball/96e7dede3ddc9e3b3392f5cc93e26eca77545a89",
+                "reference": "96e7dede3ddc9e3b3392f5cc93e26eca77545a89",
                 "shasum": ""
             },
             "require": {
@@ -2158,6 +2158,7 @@
                 "ocramius/proxy-manager": "~0.4|~1.0|~2.0",
                 "phpdocumentor/reflection-docblock": "^3.0",
                 "predis/predis": "~1.0",
+                "sensio/framework-extra-bundle": "^3.0.2",
                 "symfony/phpunit-bridge": "~3.2",
                 "symfony/polyfill-apcu": "~1.1",
                 "symfony/security-acl": "~2.8|~3.0"
@@ -2204,7 +2205,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2017-01-12T20:44:00+00:00"
+            "time": "2017-01-28T02:53:38+00:00"
         },
         {
             "name": "twig/twig",
@@ -2276,12 +2277,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtGeneratorBundle.git",
-                "reference": "2cc109c2ae7c3b455450f3c8da6cfb2c1fd043f0"
+                "reference": "15b53a558f5ee52922cc3f37d9eba6256cb5fb5e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtGeneratorBundle/zipball/2cc109c2ae7c3b455450f3c8da6cfb2c1fd043f0",
-                "reference": "2cc109c2ae7c3b455450f3c8da6cfb2c1fd043f0",
+                "url": "https://api.github.com/repos/lthrt/LthrtGeneratorBundle/zipball/15b53a558f5ee52922cc3f37d9eba6256cb5fb5e",
+                "reference": "15b53a558f5ee52922cc3f37d9eba6256cb5fb5e",
                 "shasum": ""
             },
             "require": {
@@ -2317,7 +2318,7 @@
                 "source": "https://github.com/lthrt/LthrtGeneratorBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtGeneratorBundle/issues"
             },
-            "time": "2016-12-22 19:11:23"
+            "time": "2017-02-01 21:34:41"
         },
         {
             "name": "lthrt/schema-visualizer-bundle",
@@ -2369,55 +2370,6 @@
                 "issues": "https://github.com/lthrt/LthrtSchemaVisualizerBundle/issues"
             },
             "time": "2016-05-02 17:12:26"
-        },
-        {
-            "name": "lthrt/tinker-bundle",
-            "version": "dev-master",
-            "target-dir": "Lthrt/TinkerBundle",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/lthrt/LthrtTinkerBundle.git",
-                "reference": "ca446fb55a528aa69a58eee4170efe2d024b5e5b"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtTinkerBundle/zipball/ca446fb55a528aa69a58eee4170efe2d024b5e5b",
-                "reference": "ca446fb55a528aa69a58eee4170efe2d024b5e5b",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.3.2"
-            },
-            "require-dev": {
-                "symfony/framework-bundle": "~3.0"
-            },
-            "type": "symfony-bundle",
-            "autoload": {
-                "psr-0": {
-                    "Lthrt\\TinkerBundle": ""
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "lthrt",
-                    "email": "lighthart.coder@gmail.com"
-                }
-            ],
-            "description": "lthrt Tinkering Bundle for Symfony2",
-            "homepage": "https://github.com/lthrt/LthrtTinkerBundle",
-            "keywords": [
-                "bundle",
-                "lthrt",
-                "tinker"
-            ],
-            "support": {
-                "source": "https://github.com/lthrt/LthrtTinkerBundle/tree/master",
-                "issues": "https://github.com/lthrt/LthrtTinkerBundle/issues"
-            },
-            "time": "2016-03-29 16:00:01"
         },
         {
             "name": "sensio/generator-bundle",
@@ -2531,7 +2483,7 @@
         }
     ],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": {
         "lthrt/contact-bundle": 20,
         "lthrt/entity-bundle": 20,
@@ -2540,10 +2492,9 @@
         "lthrt/user-bundle": 20,
         "lthrt/ccs-bundle": 20,
         "lthrt/generator-bundle": 20,
-        "lthrt/schema-visualizer-bundle": 20,
-        "lthrt/tinker-bundle": 20
+        "lthrt/schema-visualizer-bundle": 20
     },
-    "prefer-stable": false,
+    "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
         "php": "^5.6"

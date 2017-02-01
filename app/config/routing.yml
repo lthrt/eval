@@ -16,8 +16,8 @@ lthrt_contact:
     type:     annotation
 
 lthrt_entity:
-    resource: "@LthrtEntityBundle/Resources/config/routing.yml"
-    prefix:   /
+    resource: "@LthrtEntityBundle/Controller/"
+    type:     annotation
 
 lthrt_schema_visualizer:
     resource: "@LthrtSchemaVisualizerBundle/Resources/config/routing.yml"
@@ -25,10 +25,6 @@ lthrt_schema_visualizer:
 
 lthrt_template:
     resource: "@LthrtTemplateBundle/Resources/config/routing.yml"
-    prefix:   /
-
-lthrt_tinker:
-    resource: "@LthrtTinkerBundle/Resources/config/routing.yml"
     prefix:   /
 
 lthrt_user:

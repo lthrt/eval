@@ -39,9 +39,6 @@
     "url": "https://github.com/lthrt/LthrtTemplateBundle.git"
   }, {
     "type": "vcs",
-    "url": "https://github.com/lthrt/LthrtTinkerBundle.git"
-  }, {
-    "type": "vcs",
     "url": "https://github.com/lthrt/LthrtUserBundle.git"
   }],
   "require": {
@@ -65,7 +62,6 @@
   "require-dev": {
     "lthrt/generator-bundle": "dev-master",
     "lthrt/schema-visualizer-bundle": "dev-master",
-    "lthrt/tinker-bundle": "dev-master",
     "sensio/generator-bundle": "^3.0",
     "symfony/phpunit-bridge": "^3.0"
   },
@@ -102,5 +98,7 @@
     "incenteev-parameters": {
       "file": "app/config/parameters.yml"
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
