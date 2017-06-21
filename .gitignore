@@ -16,3 +16,4 @@
 /web/bundles/
 bin/symfony_requirements
 var/SymfonyRequirements.php
+.i

@@ -12,3 +12,7 @@ _errors:
 
 _main:
     resource: routing.yml
+
+lthrt_schema_visualizer:
+    resource: "@LthrtSchemaVisualizerBundle/Resources/config/routing.yml"
+    prefix:   /
