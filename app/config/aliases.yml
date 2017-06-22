@@ -1,0 +1,2 @@
+class_aliases:
+    person : Lthrt\ContactBundle\Entity\Person
