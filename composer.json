@@ -27,9 +27,6 @@
     "url": "https://github.com/lthrt/LthrtEntityBundle.git"
   }, {
     "type": "vcs",
-    "url": "https://github.com/lthrt/LthrtGeneratorBundle.git"
-  }, {
-    "type": "vcs",
     "url": "https://github.com/lthrt/LthrtGridBundle.git"
   }, {
     "type": "vcs",
@@ -56,11 +53,10 @@
     "sensio/framework-extra-bundle": "^3.0.2",
     "symfony/monolog-bundle": "^2.8",
     "symfony/swiftmailer-bundle": "^2.3",
-    "symfony/symfony": "3.1.*",
+    "symfony/symfony": "3.3.*",
     "lthrt/ccs-bundle": "dev-master"
   },
   "require-dev": {
-    "lthrt/generator-bundle": "dev-master",
     "lthrt/schema-visualizer-bundle": "dev-master",
     "sensio/generator-bundle": "^3.0",
     "symfony/phpunit-bridge": "^3.0"
