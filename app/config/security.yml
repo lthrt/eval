@@ -3,38 +3,38 @@
 security:
 
     access_control:
-        # require ROLE_ADMIN for /admin*
         - { path: ^/admin, roles: ROLE_ADMIN }
 
     encoders:
-        LthrtUserBundle\Entity\User:
+        Lthrt\UserBundle\Entity\User:
             algorithm: bcrypt
         Symfony\Component\Security\Core\User\User: plaintext
-    # ...
 
     firewalls:
         dev:
             pattern: ^/(_(profiler|wdt)|css|images|js)/
             security: false
         main:
-            pattern:    ^/
-            http_basic: ~
-            provider: in_memory
+            anonymous: ~
+            form_login:
+                check_path: /login
+                login_path: /login
             logout:
                 path:   /logout
                 target: /
+            pattern:    ^/
 
     providers:
+        chain_provider:
+            chain:
+                providers: [ in_memory, lthrt_user_provider ]
         in_memory:
             memory: 
                 users:
                     lthrt:
-                        password: %lthrt_password%
+                        password: "%lthrt_password%"
                         roles: 'ROLE_ADMIN'
 
         lthrt_user_provider:
             entity:
-                class: Lthrt\AppBundle:User
-                property: username
-                # if you're using multiple entity managers
-                # manager_name: customer
+                class: Lthrt\UserBundle\Entity\User

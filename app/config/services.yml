@@ -7,3 +7,12 @@ services:
 #    service_name:
 #        class: AppBundle\Directory\ClassName
 #        arguments: ["@another_service_name", "plain_value", "%parameter_name%"]
+
+  _defaults:
+        # automatically injects dependencies in your services
+        autowire: true
+
+  Lthrt\UserBundle\Controller\:
+        resource: '../../vendor/lthrt/user-bundle/Lthrt/UserBundle/Controller'
+        public: true
+        tags: ['controller.service_arguments']
