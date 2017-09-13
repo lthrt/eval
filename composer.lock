@@ -1296,12 +1296,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtUserBundle.git",
-                "reference": "9f31b70ccbcdecf7d4131993cd3cb98a8c5212d9"
+                "reference": "28e9f813b46f4fa38011697acbd332395b8882e5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtUserBundle/zipball/9f31b70ccbcdecf7d4131993cd3cb98a8c5212d9",
-                "reference": "9f31b70ccbcdecf7d4131993cd3cb98a8c5212d9",
+                "url": "https://api.github.com/repos/lthrt/LthrtUserBundle/zipball/28e9f813b46f4fa38011697acbd332395b8882e5",
+                "reference": "28e9f813b46f4fa38011697acbd332395b8882e5",
                 "shasum": ""
             },
             "require": {
@@ -1337,7 +1337,7 @@
                 "source": "https://github.com/lthrt/LthrtUserBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtUserBundle/issues"
             },
-            "time": "2017-09-12 20:20:25"
+            "time": "2017-09-13 00:06:28"
         },
         {
             "name": "monolog/monolog",
