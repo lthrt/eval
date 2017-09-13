@@ -1146,12 +1146,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lthrt/LthrtEntityBundle.git",
-                "reference": "32c8f4dcf2f98067528f171d96c4995321d00816"
+                "reference": "d2fb6c8232f80df29179d4cb0dfdd200c6d77662"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/32c8f4dcf2f98067528f171d96c4995321d00816",
-                "reference": "32c8f4dcf2f98067528f171d96c4995321d00816",
+                "url": "https://api.github.com/repos/lthrt/LthrtEntityBundle/zipball/d2fb6c8232f80df29179d4cb0dfdd200c6d77662",
+                "reference": "d2fb6c8232f80df29179d4cb0dfdd200c6d77662",
                 "shasum": ""
             },
             "require": {
@@ -1188,7 +1188,7 @@
                 "source": "https://github.com/lthrt/LthrtEntityBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtEntityBundle/issues"
             },
-            "time": "2017-09-12 21:02:25"
+            "time": "2017-09-13 00:04:21"
         },
         {
             "name": "lthrt/grid-bundle",
