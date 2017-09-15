@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "2056ab219d789606c7ffaefec32a7674",
+    "content-hash": "b7aaf496f62e408d49ad8a0548793ca2",
     "packages": [
         {
             "name": "bmatzner/fontawesome-bundle",
@@ -1037,6 +1037,206 @@
             "time": "2014-01-12T16:20:24+00:00"
         },
         {
+            "name": "knplabs/knp-menu",
+            "version": "2.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/KnpLabs/KnpMenu.git",
+                "reference": "964b5b3ca7fd23019147991f4f75f361d061eb20"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/KnpLabs/KnpMenu/zipball/964b5b3ca7fd23019147991f4f75f361d061eb20",
+                "reference": "964b5b3ca7fd23019147991f4f75f361d061eb20",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "require-dev": {
+                "pimple/pimple": "~1.0",
+                "silex/silex": "~1.0",
+                "symfony/phpunit-bridge": "~2.7|~3.0",
+                "symfony/routing": "~2.3|~3.0",
+                "twig/twig": "~1.16|~2.0"
+            },
+            "suggest": {
+                "pimple/pimple": "for the built-in implementations of the menu provider and renderer provider",
+                "silex/silex": "for the integration with your silex application",
+                "twig/twig": "for the TwigRenderer and the integration with your templates"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.2-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Knp\\Menu\\": "src/Knp/Menu"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Christophe Coevoet",
+                    "email": "stof@notk.org"
+                },
+                {
+                    "name": "Knplabs",
+                    "homepage": "http://knplabs.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://github.com/KnpLabs/KnpMenu/contributors"
+                }
+            ],
+            "description": "An object oriented menu library",
+            "homepage": "http://knplabs.com",
+            "keywords": [
+                "menu",
+                "tree"
+            ],
+            "time": "2016-09-22T07:36:19+00:00"
+        },
+        {
+            "name": "knplabs/knp-menu-bundle",
+            "version": "2.1.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/KnpLabs/KnpMenuBundle.git",
+                "reference": "0e4af7209dc03e39c51ec70b68ab2ba3177c25de"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/KnpLabs/KnpMenuBundle/zipball/0e4af7209dc03e39c51ec70b68ab2ba3177c25de",
+                "reference": "0e4af7209dc03e39c51ec70b68ab2ba3177c25de",
+                "shasum": ""
+            },
+            "require": {
+                "knplabs/knp-menu": "~2.2",
+                "symfony/framework-bundle": "~2.3|~3.0"
+            },
+            "require-dev": {
+                "symfony/expression-language": "~2.4|~3.0",
+                "symfony/phpunit-bridge": "~2.7|~3.0"
+            },
+            "type": "symfony-bundle",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.2.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Knp\\Bundle\\MenuBundle\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Christophe Coevoet",
+                    "email": "stof@notk.org"
+                },
+                {
+                    "name": "Knplabs",
+                    "homepage": "http://knplabs.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://github.com/KnpLabs/KnpMenuBundle/contributors"
+                }
+            ],
+            "description": "This bundle provides an integration of the KnpMenu library",
+            "keywords": [
+                "menu"
+            ],
+            "time": "2016-09-22T12:24:40+00:00"
+        },
+        {
+            "name": "kriswallsmith/assetic",
+            "version": "v1.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kriswallsmith/assetic.git",
+                "reference": "e911c437dbdf006a8f62c2f59b15b2d69a5e0aa1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/kriswallsmith/assetic/zipball/e911c437dbdf006a8f62c2f59b15b2d69a5e0aa1",
+                "reference": "e911c437dbdf006a8f62c2f59b15b2d69a5e0aa1",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.1",
+                "symfony/process": "~2.1|~3.0"
+            },
+            "conflict": {
+                "twig/twig": "<1.27"
+            },
+            "require-dev": {
+                "leafo/lessphp": "^0.3.7",
+                "leafo/scssphp": "~0.1",
+                "meenie/javascript-packer": "^1.1",
+                "mrclay/minify": "<2.3",
+                "natxet/cssmin": "3.0.4",
+                "patchwork/jsqueeze": "~1.0|~2.0",
+                "phpunit/phpunit": "~4.8 || ^5.6",
+                "psr/log": "~1.0",
+                "ptachoire/cssembed": "~1.0",
+                "symfony/phpunit-bridge": "~2.7|~3.0",
+                "twig/twig": "~1.23|~2.0",
+                "yfix/packager": "dev-master"
+            },
+            "suggest": {
+                "leafo/lessphp": "Assetic provides the integration with the lessphp LESS compiler",
+                "leafo/scssphp": "Assetic provides the integration with the scssphp SCSS compiler",
+                "leafo/scssphp-compass": "Assetic provides the integration with the SCSS compass plugin",
+                "patchwork/jsqueeze": "Assetic provides the integration with the JSqueeze JavaScript compressor",
+                "ptachoire/cssembed": "Assetic provides the integration with phpcssembed to embed data uris",
+                "twig/twig": "Assetic provides the integration with the Twig templating engine"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.4-dev"
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "Assetic": "src/"
+                },
+                "files": [
+                    "src/functions.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kris Wallsmith",
+                    "email": "kris.wallsmith@gmail.com",
+                    "homepage": "http://kriswallsmith.net/"
+                }
+            ],
+            "description": "Asset Management for PHP",
+            "homepage": "https://github.com/kriswallsmith/assetic",
+            "keywords": [
+                "assets",
+                "compression",
+                "minification"
+            ],
+            "time": "2016-11-11T18:43:20+00:00"
+        },
+        {
             "name": "lthrt/ccs-bundle",
             "version": "dev-master",
             "target-dir": "Lthrt/CCSBundle",
@@ -1188,7 +1388,7 @@
                 "source": "https://github.com/lthrt/LthrtEntityBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtEntityBundle/issues"
             },
-            "time": "2017-09-13 00:04:21"
+            "time": "2017-09-13T00:04:21+00:00"
         },
         {
             "name": "lthrt/grid-bundle",
@@ -1240,56 +1440,6 @@
             "time": "2016-04-06 22:12:23"
         },
         {
-            "name": "lthrt/template-bundle",
-            "version": "dev-master",
-            "target-dir": "Lthrt/TemplateBundle",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/lthrt/LthrtTemplateBundle.git",
-                "reference": "61f80e329e2530d1cb5c416fed1d54d93c89e675"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/lthrt/LthrtTemplateBundle/zipball/61f80e329e2530d1cb5c416fed1d54d93c89e675",
-                "reference": "61f80e329e2530d1cb5c416fed1d54d93c89e675",
-                "shasum": ""
-            },
-            "require": {
-                "bmatzner/fontawesome-bundle": "^4.4",
-                "php": ">=5.3.2"
-            },
-            "require-dev": {
-                "symfony/framework-bundle": "~3.0"
-            },
-            "type": "symfony-bundle",
-            "autoload": {
-                "psr-0": {
-                    "Lthrt\\TemplateBundle": ""
-                }
-            },
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "lthrt",
-                    "email": "lighthart.coder@gmail.com"
-                }
-            ],
-            "description": "Templates, css and js Bundle for Symfony2",
-            "homepage": "https://github.com/lthrt/LthrtTemplateBundle",
-            "keywords": [
-                "bundle",
-                "lthrt",
-                "template"
-            ],
-            "support": {
-                "source": "https://github.com/lthrt/LthrtTemplateBundle/tree/master",
-                "issues": "https://github.com/lthrt/LthrtTemplateBundle/issues"
-            },
-            "time": "2016-08-10 17:15:14"
-        },
-        {
             "name": "lthrt/user-bundle",
             "version": "dev-master",
             "target-dir": "Lthrt/UserBundle",
@@ -1337,7 +1487,56 @@
                 "source": "https://github.com/lthrt/LthrtUserBundle/tree/master",
                 "issues": "https://github.com/lthrt/LthrtUserBundle/issues"
             },
-            "time": "2017-09-13 00:06:28"
+            "time": "2017-09-13T00:06:28+00:00"
+        },
+        {
+            "name": "mesd/presentation-bundle",
+            "version": "dev-master",
+            "target-dir": "Mesd/PresentationBundle",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/MESD/PresentationBundle.git",
+                "reference": "bf013ac163d47e89a9f58513e146ca51fa38776e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/MESD/PresentationBundle/zipball/bf013ac163d47e89a9f58513e146ca51fa38776e",
+                "reference": "bf013ac163d47e89a9f58513e146ca51fa38776e",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.2"
+            },
+            "require-dev": {
+                "symfony/framework-bundle": "~2.3"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-0": {
+                    "Mesd\\PresentationBundle": ""
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Curtis G Hanson",
+                    "email": "chanson@mesd.k12.or.us"
+                }
+            ],
+            "description": "MESD Presentation Bundle for Symfony2",
+            "homepage": "http://github.com/Mesd/PresentationBundle",
+            "keywords": [
+                "bundle",
+                "mesd",
+                "presentation"
+            ],
+            "support": {
+                "source": "https://github.com/MESD/PresentationBundle/tree/master",
+                "issues": "https://github.com/MESD/PresentationBundle/issues"
+            },
+            "time": "2017-09-15 20:20:14"
         },
         {
             "name": "monolog/monolog",
@@ -1924,6 +2123,76 @@
                 "mailer"
             ],
             "time": "2017-05-01T15:54:03+00:00"
+        },
+        {
+            "name": "symfony/assetic-bundle",
+            "version": "v2.8.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/assetic-bundle.git",
+                "reference": "2e0a23a4874838e26de6f025e02fc63328921a4c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/assetic-bundle/zipball/2e0a23a4874838e26de6f025e02fc63328921a4c",
+                "reference": "2e0a23a4874838e26de6f025e02fc63328921a4c",
+                "shasum": ""
+            },
+            "require": {
+                "kriswallsmith/assetic": "~1.4",
+                "php": ">=5.3.0",
+                "symfony/console": "~2.3|~3.0",
+                "symfony/dependency-injection": "~2.3|~3.0",
+                "symfony/framework-bundle": "~2.3|~3.0",
+                "symfony/yaml": "~2.3|~3.0"
+            },
+            "conflict": {
+                "kriswallsmith/spork": "<=0.2",
+                "twig/twig": "<1.27"
+            },
+            "require-dev": {
+                "kriswallsmith/spork": "~0.3",
+                "patchwork/jsqueeze": "~1.0",
+                "symfony/class-loader": "~2.3|~3.0",
+                "symfony/css-selector": "~2.3|~3.0",
+                "symfony/dom-crawler": "~2.3|~3.0",
+                "symfony/phpunit-bridge": "~2.7|~3.0",
+                "symfony/twig-bundle": "~2.3|~3.0"
+            },
+            "suggest": {
+                "kriswallsmith/spork": "to be able to dump assets in parallel",
+                "symfony/twig-bundle": "to use the Twig integration"
+            },
+            "type": "symfony-bundle",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.8-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Bundle\\AsseticBundle\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kris Wallsmith",
+                    "email": "kris.wallsmith@gmail.com",
+                    "homepage": "http://kriswallsmith.net/"
+                }
+            ],
+            "description": "Integrates Assetic into Symfony2",
+            "homepage": "https://github.com/symfony/AsseticBundle",
+            "keywords": [
+                "assets",
+                "compression",
+                "minification"
+            ],
+            "time": "2017-07-14T07:26:46+00:00"
         },
         {
             "name": "symfony/monolog-bundle",
@@ -2772,12 +3041,12 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
+        "lthrt/ccs-bundle": 20,
         "lthrt/contact-bundle": 20,
         "lthrt/entity-bundle": 20,
         "lthrt/grid-bundle": 20,
-        "lthrt/template-bundle": 20,
         "lthrt/user-bundle": 20,
-        "lthrt/ccs-bundle": 20,
+        "mesd/presentation-bundle": 20,
         "lthrt/schema-visualizer-bundle": 20
     },
     "prefer-stable": true,

@@ -9,14 +9,15 @@ class AppKernel extends Kernel
     {
         $bundles = [
             new AppBundle\AppBundle(),
-            new Bmatzner\FontAwesomeBundle\BmatznerFontAwesomeBundle(),
             new Doctrine\Bundle\DoctrineBundle\DoctrineBundle(),
+            new Knp\Bundle\MenuBundle\KnpMenuBundle(),
             new Lthrt\ContactBundle\LthrtContactBundle(),
             new Lthrt\EntityBundle\LthrtEntityBundle(),
             new Lthrt\GridBundle\LthrtGridBundle(),
-            new Lthrt\TemplateBundle\LthrtTemplateBundle(),
             new Lthrt\UserBundle\LthrtUserBundle(),
+            new Mesd\PresentationBundle\MesdPresentationBundle(),
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
+            new Symfony\Bundle\AsseticBundle\AsseticBundle(),
             new Symfony\Bundle\FrameworkBundle\FrameworkBundle(),
             new Symfony\Bundle\SecurityBundle\SecurityBundle(),
             new Symfony\Bundle\TwigBundle\TwigBundle(),

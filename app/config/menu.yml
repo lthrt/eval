@@ -1,0 +1,20 @@
+# parameters:
+#     eval.main_builder.class: AppBundle\Menu\MainBuilder
+
+# services:
+#     eval.main_menu:
+#         class:           Knp\Menu\MenuItem # service definition
+#         factory_service: eval.main_builder.class
+#         factory_method:  createMenu
+#         scope:           request
+#         tags:
+#             - { name: knp_menu.menu, alias: main } # alias
+
+knp_menu:
+    # use "twig: false" to disable the Twig extension and the TwigRenderer
+    twig:
+        template: MesdPresentationBundle:Menu:knp_menu.html.twig
+    #  if true, enables the helper for PHP templates
+    templating: false
+    # the renderer to use, list is also available by default
+    default_renderer: twig

@@ -16,3 +16,4 @@ services:
         resource: '../../vendor/lthrt/user-bundle/Lthrt/UserBundle/Controller'
         public: true
         tags: ['controller.service_arguments']
+        

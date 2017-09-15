@@ -18,3 +18,7 @@ parameters:
     # A secret key that's used to generate certain security-related tokens
     secret:            ThisTokenIsNotSoSecretChangeIt
     lthrt_password:   ~
+
+    node_base_path: /usr/bin/node
+    node_lib_path: /usr/include/node
+    node_modules_path: /lib/node_modules

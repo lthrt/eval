@@ -1,7 +1,10 @@
-<html>
-<head>
-</head>
-<body>
+{% extends 'base.html.twig' %}
+{# {% set page_title ='Login to Eval' %} #}
+
+{% block contentbody %}
+    <div class="row">
+        <div class="col-sm-8">
 {% include 'LthrtUserBundle:Security:login.html.twig' %}
-</body>
-</html>
+</div>
+</div>
+{% endblock contentbody %}

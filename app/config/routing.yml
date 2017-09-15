@@ -18,10 +18,6 @@ lthrt_entity:
     resource: "@LthrtEntityBundle/Controller/"
     type:     annotation
 
-lthrt_template:
-    resource: "@LthrtTemplateBundle/Resources/config/routing.yml"
-    prefix:   /
-
 lthrt_user:
     resource: "@LthrtUserBundle/Controller/"
     type:     annotation

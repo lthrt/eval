@@ -17,3 +17,8 @@
 bin/symfony_requirements
 var/SymfonyRequirements.php
 .i
+/web/assetic
+/web/css
+/web/js
+/web/fonts
+/node_modules

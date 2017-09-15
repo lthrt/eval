@@ -1,7 +1,12 @@
-<html>
-<head>
-</head>
-<body>
-{% include 'LthrtUserBundle:Security:register.html.twig' %}
-</body>
-</html>
+{% extends 'base.html.twig' %}
+
+{% block contentbody %}
+    <div id="wrapper">
+        <div id="container">
+            <H1>App Bundle</H1>       
+            {% include 'LthrtUserBundle:Security:register.html.twig' %}
+            <br/>
+            <br/>
+        </div>
+    </div>
+{% endblock contentbody %}

@@ -1,0 +1,20 @@
+mesd_presentation:
+    globals:
+        trans_domain:      ""
+        app_name:          "app_name"
+        app_abbreviation:  "app_abbreviation"
+        app_description:   "app_description"
+        app_keywords:      "app_keywords"
+        app_url:           "app_url"
+        app_version:       "app_version"
+        app_license_1:     "app_license_1"
+        app_license_url_1: "app_license_url_1"
+        app_license_2:     "app_license_2"
+        app_license_url_2: "app_license_url_2"
+        org_name:          "org_name"
+        org_abbreviation:  "org_abbreviation"
+        org_address:       "org_address"
+        org_telephone:     "org_telephone"
+        org_email:         "org_email"
+        org_url:           "org_url"
+    templates: ~

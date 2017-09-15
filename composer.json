@@ -1,6 +1,6 @@
 {
   "name": "dl/eval",
-  "license": "proprietary",
+  "license": "MIT",
   "type": "project",
   "autoload": {
     "psr-4": {
@@ -33,20 +33,21 @@
     "url": "https://github.com/lthrt/LthrtSchemaVisualizerBundle.git"
   }, {
     "type": "vcs",
-    "url": "https://github.com/lthrt/LthrtTemplateBundle.git"
+    "url": "https://github.com/lthrt/LthrtUserBundle.git"
   }, {
     "type": "vcs",
-    "url": "https://github.com/lthrt/LthrtUserBundle.git"
+    "url": "https://github.com/MESD/PresentationBundle.git"
   }],
   "require": {
+    "bmatzner/fontawesome-bundle": "^4.7",
     "doctrine/doctrine-bundle": "^1.6",
     "doctrine/doctrine-cache-bundle": "^1.2",
     "doctrine/orm": "^2.5",
     "incenteev/composer-parameter-handler": "^2.0",
+    "lthrt/ccs-bundle": "dev-master",
     "lthrt/contact-bundle": "dev-master",
     "lthrt/entity-bundle": "dev-master",
     "lthrt/grid-bundle": "dev-master",
-    "lthrt/template-bundle": "dev-master",
     "lthrt/user-bundle": "dev-master",
     "php": "^5.6",
     "sensio/distribution-bundle": "^5.0",
@@ -54,7 +55,9 @@
     "symfony/monolog-bundle": "^2.8",
     "symfony/swiftmailer-bundle": "^2.3",
     "symfony/symfony": "3.3.*",
-    "lthrt/ccs-bundle": "dev-master"
+    "symfony/assetic-bundle": "^2.8",
+    "mesd/presentation-bundle": "dev-master",
+    "knplabs/knp-menu-bundle": "^2.1"
   },
   "require-dev": {
     "lthrt/schema-visualizer-bundle": "dev-master",
